@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://dahef34.github.io'
 languageCode = 'en-us'
 title = 'Anesthetips NCE Board Prep'
 theme = "hugo-theme-relearn"
