@@ -75,7 +75,7 @@ READING: Cote [^3] p. 470
 [Single Ventricle from AHA](https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/single-ventricle-defects)
 
 {{< spoiler text="View videos on single ventricle">}}
-{{< youtube 4GUm8ybncWY >}}
+{{< youtube id="4GUm8ybncWY" >}}
 {{< /spoiler >}}
 
 ## ***Transposition of the Great Vessels***
@@ -90,7 +90,7 @@ READING: Cote [^3] p. 468
 [Transposition of the Great Arteries from AHA](https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/d-transposition-of-the-great-arteries)
 
 {{< spoiler text="View videos on transposition of great vessels">}}
-{{< youtube gYLeNjU >}}
+{{< youtube id="gYLeNjU" >}}
 {{< /spoiler >}}
 
 
