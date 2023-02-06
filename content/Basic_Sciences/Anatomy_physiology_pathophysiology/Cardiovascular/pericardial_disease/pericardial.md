@@ -4,7 +4,10 @@ date: '2022-12-02'
 type: page
 weight: 106
 commentable: true
-
+tags:
+ - cardiovascular
+ - pericarditis
+ - tamponade
 show_breadcrumb: true
 ---
 

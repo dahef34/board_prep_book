@@ -5,6 +5,7 @@ type: book
 weight: 101
 commentable: true
 pager: true
+tags: ['RCRI', 'GSPCRI', 'MACE', 'Cardiovascular']
 show_breadcrumb: true
 ---
 

@@ -5,6 +5,9 @@ type: book
 weight: 107
 commentable: true
 show_breadcrumb: true
+tags:
+ - cardiovascular
+ - cardiomyopathy
 ---
 
 

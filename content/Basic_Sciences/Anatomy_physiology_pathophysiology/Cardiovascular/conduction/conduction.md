@@ -4,7 +4,7 @@ date: '2022-12-02'
 type: book
 weight: 103
 commentable: true
-
+tags: ['CIED', 'Pacemaker', 'ICD', 'Cardiovascular']
 show_breadcrumb: true
 ---
 

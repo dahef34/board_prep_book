@@ -4,7 +4,7 @@ date: '2022-12-02'
 type: book
 weight: 104
 commentable: true
-
+tags: ['PE', 'DVT', 'Heart Disease', 'Cardiovascular']
 show_breadcrumb: true
 ---
 

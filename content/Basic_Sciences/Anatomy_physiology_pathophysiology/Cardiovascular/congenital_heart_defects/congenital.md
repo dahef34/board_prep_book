@@ -3,7 +3,7 @@ title: ❤️‍🩹 Congenital heart defects
 date: '2022-12-02'
 type: default
 weight: 102
-
+tags: ['TOF', 'PDA', 'Congenital Heart Defects', 'Cardiovascular']
 show_breadcrumb: true
 ---
 
