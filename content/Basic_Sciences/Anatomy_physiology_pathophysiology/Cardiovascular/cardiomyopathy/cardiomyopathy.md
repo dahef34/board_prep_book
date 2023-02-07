@@ -8,6 +8,8 @@ show_breadcrumb: true
 tags:
  - cardiovascular
  - cardiomyopathy
+authors:
+    - Justin Hefley
 ---
 
 

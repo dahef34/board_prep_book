@@ -7,6 +7,8 @@ commentable: true
 pager: true
 tags: ['RCRI', 'GSPCRI', 'MACE', 'Cardiovascular']
 show_breadcrumb: true
+authors:
+    - Justin Hefley
 ---
 
 

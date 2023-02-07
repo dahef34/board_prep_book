@@ -11,6 +11,8 @@ image:
   focal_point: "TopLeft"
   preview_only: false
   alt_text: Original work by J. Hefley
+authors:
+    - Justin Hefley
 
 
 ---

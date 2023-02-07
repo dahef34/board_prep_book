@@ -6,6 +6,8 @@ weight: 105
 commentable: true
 tags: ['Rheumatism', 'Pericarditis', 'Cardiovascular']
 show_breadcrumb: true
+authors:
+    - Justin Hefley
 ---
 
 

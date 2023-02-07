@@ -7,6 +7,8 @@ commentable: true
 show_breadcrumb: true
 tags:
 - sevoflurane
+authors:
+    - Justin Hefley
 ---
 
 #### MAC: **2**

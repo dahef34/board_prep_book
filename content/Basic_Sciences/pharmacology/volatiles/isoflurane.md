@@ -7,6 +7,8 @@ commentable: true
 show_breadcrumb: true
 tags: 
 - isoflurane
+authors:
+    - Justin Hefley
 ---
 
 #### MAC: **1.2**

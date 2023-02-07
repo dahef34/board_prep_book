@@ -9,6 +9,8 @@ tags:
  - pericarditis
  - tamponade
 show_breadcrumb: true
+authors:
+    - Justin Hefley
 ---
 
 
