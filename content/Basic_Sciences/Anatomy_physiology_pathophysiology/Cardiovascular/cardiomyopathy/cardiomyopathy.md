@@ -13,7 +13,7 @@ authors:
 ---
 
 
-## Cardiomyopathy and heart failure
+
 ![Ai Generated Heart Failure](../../ai_hf.png "AI generated image of elderly man with heart failure")
 
 

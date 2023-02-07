@@ -12,7 +12,6 @@ authors:
 ---
 
 
-## Ischemic Heart Disease
 
 Ischemic heart disease happens when there is an imbalance between myocardial oxygen supply and demand.
 

@@ -10,7 +10,6 @@ authors:
 ---
 
 
-# Congenital heart defects
 
 
 

@@ -9,7 +9,6 @@ show_breadcrumb: true
 ---
 
 
-## Cardiovascular and peripheral vascular complications
 
 # Cardiac System
 

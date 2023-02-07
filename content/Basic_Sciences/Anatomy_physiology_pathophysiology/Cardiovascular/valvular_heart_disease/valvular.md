@@ -18,7 +18,6 @@ authors:
 ---
 
 
-## Valvular Heart Disease
 
 Reference the [2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines](https://www.ahajournals.org/doi/10.1161/CIR.0000000000000923#d1e434)
 ![Beating heart](../../CG_Heart.gif "Cross-section of heart pumping")
