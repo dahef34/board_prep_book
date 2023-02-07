@@ -7,6 +7,14 @@ home = ["HTML", "RSS", "SEARCH"]
 
 [params]
 themeVariant = "learn"
+  [features]
+    [avatar]
+      gravatar = false
+      shape = "circle"
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
 
 [module]
   [module.hugoVersion]
