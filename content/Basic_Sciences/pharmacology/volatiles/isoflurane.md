@@ -9,6 +9,7 @@ tags:
 - isoflurane
 authors:
     - Justin Hefley
+    - Lauren Suszan
 ---
 
 #### MAC: **1.2**

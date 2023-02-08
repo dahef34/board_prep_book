@@ -9,6 +9,7 @@ tags:
 - sevoflurane
 authors:
     - Justin Hefley
+    - Lauren Suszan
 ---
 
 #### MAC: **2**

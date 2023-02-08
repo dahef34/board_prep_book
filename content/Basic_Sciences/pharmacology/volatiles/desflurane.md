@@ -9,6 +9,7 @@ tags:
     - desflurane
 authors: 
     - Justin Hefley
+    - Lauren Suszan
 photo: 
     - 'avatar.jpg'
 ---
