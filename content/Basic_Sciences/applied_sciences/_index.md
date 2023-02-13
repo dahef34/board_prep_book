@@ -2,7 +2,7 @@
 title: 🗂 Applied Sciences
 date: '2022-12-02'
 type: chapter
-weight: 99
+weight: 3000
 commentable: true
 show_breadcrumb: true
 ---
