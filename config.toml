@@ -50,3 +50,6 @@ themeVariant = "relearn-light"
     mediaType = 'text/html'
     permalinkable = false
     noUgly = true
+
+[markup.goldmark.renderer]
+unsafe=true
