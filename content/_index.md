@@ -1,6 +1,6 @@
 ---
-title: 📊 Board Prep Study Materials
-linkTitle: Board Prep Study Materials
+title: NCE Board Prep
+linkTitle: NCE Board Prep
 summary: Simple board prep study materials for students
 date: '2022-12-02'
 type: home
@@ -15,6 +15,7 @@ pager: true
 ---
 
 ## NCE Board Prep
+#### By AnestheTIPS
 
 Use the links below as well as the bread crumbs above to navigate the content.  The bibliography below will be listed for references in each of the sections.
 
