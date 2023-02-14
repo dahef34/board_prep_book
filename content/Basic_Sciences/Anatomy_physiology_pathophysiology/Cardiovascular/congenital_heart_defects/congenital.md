@@ -27,7 +27,8 @@ There are many different congenital heart defects that can present in a child.  
 
 
 <br>
-## ***Patent Ductus Arteriosus***[^3]
+
+## ***Patent Ductus Arteriosus*** [^3]
 
 READING: Cote [^3] p. 466
 
