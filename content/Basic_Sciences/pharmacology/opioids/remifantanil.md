@@ -1,32 +1,31 @@
 ---
-title: Fentanyl
+title: Remifentanil
 date: '2023-02-02'
 type: page
-weight: 1523
+weight: 1524
 commentable: true
 show_breadcrumb: true
 tags: 
-    - fentanyl
+    - remifentanil
     - opioids
 authors: 
     - Justin Hefley
     - Lauren Suszan
 ---
 
-Dose: **5 - 40 mg/kg** as sole agent  
-Anesthesia Supplement: **2 - 20 mcg/kg**  
-Analgesia: **0.7 - 2 mcg/kg** or 25-100 mcg/dose 
+Induction Dose: **1 mcg/kg** over 60 seconds  
+Infusion Dose: **0.05 - 2 mcg/kg/min**   
 Onset: **30 seconds**  
-Peak: **5 - 10 minutes**  
-Duration: **30 - 60 minutes**  
-Elimination: **Hepatic / Pulmonary (75%)**  
-Mechanism of Action: **{{< math >}}$\mu $ {{< /math >}}receptor agonist** - K efflux {{< math >}}Ca$^{++}${{< /math >}} inhibition 
+Peak: **3 - 5 minutes**  
+Duration: **5 - 10 minutes**  
+Elimination: **Nonspecific esterases**  
+Mechanism of Action: **Mu receptor agonist** - K efflux {{< math >}}Ca$^{++}${{< /math >}} inhibition  
 
 
-- pKa = 8.4
-- Protein Binding 84%
-- VD = 335
-- Context sensitive {{< math >}}$\frac{1}{2}$-time{{< /math >}} after a 4 hour infusion = 260 minutes
+- pKa = 7.3
+- Protein Binding 66 - 93%
+- VD = 30
+- Context sensitive {{< math >}}$\frac{1}{2}$-time{{< /math >}} = 4 minutes and is independent of infusion duration
 - 100x the potency of morphine
 - Bradycardia
 - N/V
@@ -34,7 +33,6 @@ Mechanism of Action: **{{< math >}}$\mu $ {{< /math >}}receptor agonist** - K ef
 - ↓ RR, {{< math >}}CO$_2${{< /math >}} Response
 - Delayed gastric emptying
 - Biliary tract spasm
-- Non-histaminergic pruritis
 - Chest wall rigidity
 
 

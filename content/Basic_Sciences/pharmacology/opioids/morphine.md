@@ -1,33 +1,29 @@
 ---
-title: Fentanyl
+title: Morphine
 date: '2023-02-02'
 type: page
-weight: 1523
-commentable: true
-show_breadcrumb: true
+weight: 1525
 tags: 
-    - fentanyl
+    - morphine
     - opioids
 authors: 
     - Justin Hefley
     - Lauren Suszan
 ---
 
-Dose: **5 - 40 mg/kg** as sole agent  
-Anesthesia Supplement: **2 - 20 mcg/kg**  
-Analgesia: **0.7 - 2 mcg/kg** or 25-100 mcg/dose 
-Onset: **30 seconds**  
-Peak: **5 - 10 minutes**  
-Duration: **30 - 60 minutes**  
-Elimination: **Hepatic / Pulmonary (75%)**  
-Mechanism of Action: **{{< math >}}$\mu $ {{< /math >}}receptor agonist** - K efflux {{< math >}}Ca$^{++}${{< /math >}} inhibition 
+Dose: **2.5 - 15 mg**  
+Onset: **< 1 minute**  
+Peak: **15 - 30 minutes**  
+Duration: **4 hours**  
+Elimination: **Hepatic / Renal**  
+Mechanism of Action: **{{< math >}}$\mu, \kappa, \delta$ {{< /math >}}receptor agonist** - K efflux {{< math >}}Ca$^{++}${{< /math >}} inhibition  
 
 
-- pKa = 8.4
-- Protein Binding 84%
-- VD = 335
-- Context sensitive {{< math >}}$\frac{1}{2}$-time{{< /math >}} after a 4 hour infusion = 260 minutes
-- 100x the potency of morphine
+- pKa = 7.9
+- Protein Binding 35%
+- VD = 224
+- Active metabolite {{< math >}}$\rightarrow{{< /math >}} morphine-6-glucuronide can accumulate with renal dysfunction
+- Histamine release
 - Bradycardia
 - N/V
 - Dose-dependent respiratory depression

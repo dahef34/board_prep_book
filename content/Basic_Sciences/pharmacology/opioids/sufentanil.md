@@ -1,40 +1,39 @@
 ---
-title: Fentanyl
+title: Sufentanil
 date: '2023-02-02'
 type: page
-weight: 1523
+weight: 1526
 commentable: true
 show_breadcrumb: true
 tags: 
-    - fentanyl
+    - sufentanil
     - opioids
 authors: 
     - Justin Hefley
     - Lauren Suszan
 ---
 
-Dose: **5 - 40 mg/kg** as sole agent  
-Anesthesia Supplement: **2 - 20 mcg/kg**  
-Analgesia: **0.7 - 2 mcg/kg** or 25-100 mcg/dose 
-Onset: **30 seconds**  
-Peak: **5 - 10 minutes**  
-Duration: **30 - 60 minutes**  
-Elimination: **Hepatic / Pulmonary (75%)**  
-Mechanism of Action: **{{< math >}}$\mu $ {{< /math >}}receptor agonist** - K efflux {{< math >}}Ca$^{++}${{< /math >}} inhibition 
+Induction Dose: **2 - 10 mcg/kg**  
+Analgesic Dose: **0.2 - 0.6 mcg/kg**  
+Infusion Dose: **0.005 - 0.05 mcg/kg/min**   
+Onset: **1 - 3 minutes**  
+Peak: **3 - 5 minutes**  
+Duration: **20 - 45 minutes**  
+Elimination: **Hepatic / Pulmonary**  
+Mechanism of Action: **{{< math >}}$\mu, \kappa, \delta$ {{< /math >}}receptor agonist** - K efflux {{< math >}}Ca$^{++}${{< /math >}} inhibition  
 
 
-- pKa = 8.4
-- Protein Binding 84%
-- VD = 335
-- Context sensitive {{< math >}}$\frac{1}{2}$-time{{< /math >}} after a 4 hour infusion = 260 minutes
-- 100x the potency of morphine
+- pKa = 8.0
+- Protein Binding 93%
+- VD = 123
+- Context sensitive {{< math >}}$\frac{1}{2}$-time{{< /math >}} after a 4-hour infusion = 30 minutes
+- 1000x the potency of morphine
 - Bradycardia
 - N/V
 - Dose-dependent respiratory depression
 - ↓ RR, {{< math >}}CO$_2${{< /math >}} Response
 - Delayed gastric emptying
 - Biliary tract spasm
-- Non-histaminergic pruritis
 - Chest wall rigidity
 
 
