@@ -7,6 +7,7 @@
 {{- end }}
 <html lang="{{ .Page.Language | default "en" }}" dir="{{ T "Reading-direction" | default "ltr" }}">
   <head>
+    <link rel="manifest" href="/manifest.json">
     {{- partial "meta.html" . }}
     {{- $page := . }}
     {{- $link := "<link href=\"%s\" rel=\"%s\" type=\"%s\" title=\"%s\">" }}
