@@ -70,7 +70,7 @@ There is an up to five-fold increase in PE after surgery.  The highest risk cate
 Clinical findings in patients with a PE include in descending order: dyspnea, tachycardia, acute onset, age > 65, syncope, and arterial hypotension.  A PE leads to physiologic dead space which can be calculated using the Bohn equation:
 
 
-{{% expand title = "Bohr equation" %}}
+{{% expand title = "Bohr equation: ____________________________" %}}
 ```math
 $$V_{d\ phys} = V_T[(PaCO_2 - PeCO_2)/PaCO_2]$$
 ```

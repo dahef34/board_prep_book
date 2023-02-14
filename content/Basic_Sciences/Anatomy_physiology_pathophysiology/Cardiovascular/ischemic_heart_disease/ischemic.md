@@ -23,42 +23,42 @@ Factors contributing to a decreased oxygen supply:
 For patients with ischemic heart disease undergoing non-cardiac surgery, the Lee Revised Cardiac Index should be used to determine overall risk and help determine if further optimization is necessary.
 
 ### *Lee Revised Cardiac Risk Index* [^14]
-1. High Risk Surgery
-   - defined as intraperitoneal, intrathoracic, or suprainguinal vascular.
-2. Coronary Artery Disease
-   - defined as History of myocardial infarction, positive exercise test, current complaint of ischemic chest pain or use of nitrate therapy, or ECG with Q waves. Patients with prior CABG surgery or PTCA are included only if they had current complaints of chest pain that are presumed to be due to ischemia
-3. Congestive Heart Failure
-   - defined as: History of congestive heart failure, pulmonary edema, or paroxysmal nocturnal dyspnea; physical examination showing bilateral rales or S3 gallop; or chest radiograph showing pulmonary vascular redistribution
-4. Cerebrovascular disease
-   - defined as: History of transient ischemic attack or stroke
-5. Diabetes mellitus on insulin
-6. Serum Creatinine >2 mg/dl or >177 μmol/L
+1. <div title="High Risk Surgery">___________________</div>
+> defined as intraperitoneal, intrathoracic, or suprainguinal vascular.
+2. <div title="Coronary Artery Disease">___________________</div>
+> defined as History of myocardial infarction, positive exercise test, current complaint of ischemic chest pain or use of nitrate therapy, or ECG with Q waves. Patients with prior CABG surgery or PTCA are included only if they had current complaints of chest pain that are presumed to be due to ischemia
+3. <div title="Congestive Heart Failure">___________________</div>
+> defined as: History of congestive heart failure, pulmonary edema, or paroxysmal nocturnal dyspnea; physical examination showing bilateral rales or S3 gallop; or chest radiograph showing pulmonary vascular redistribution
+4. <div title="Cerebrovascular disease">___________________</div>
+> defined as: History of transient ischemic attack or stroke
+5. <div title="Diabetes mellitus on insulin">___________________</div>
+6. <div title="Serum Creatinine >2 mg/dl or >177 μmol/L">___________________</div>
 
 
 For geriatric patients, the Geriatric-Sensitive Perioperative Cardiac Risk Index is more sensitive.
 ### *Geriatric-Sensitive Perioperative Cardiac Risk Index* [^15]
-1. History of Stroke
-2. ASA Class
-3. Surgery Type
-4. Functional Status
-5. Creatinine
-6. History of heart failure
-7. Diabetes
+1. <div title="History of Stroke">___________________</div>
+2. <div title="ASA Class">___________________</div>
+3. <div title="Surgery Type">___________________</div>
+4. <div title="Functional Status">___________________</div>
+5. <div title="Creatinine">___________________</div>
+6. <div title="History of heart failure">___________________</div>
+7. <div title="Diabetes">___________________</div>
 
 
 Clinical risk factors for a perioperative major adverse cardiac event (MACE) include the following:
 
  - Reduced functional status (< 4 METs)
  - Ischemic heart disease (history of MI, angina pectoris, etc.)
- - Heart failure
- - Cardiomyopathy
+ - <div title="Heart failure">___________________</div>
+ - <div title="Cardiomyopathy">___________________</div>
  - Severe valvular heart disease (severe aortic stenosis, symptomatic mitral regurgitation)
  - Significant arrhythmias (Mobitz II AV block, 3rd-degree block, symptomatic ventricular arrhythmia, symptomatic bradycardia, newly recognized ventricular tachycardia)
- - Chronic renal failure
+ - <div title="Chronic renal failure">___________________</div>
  - History of cerebrovascular accident or transient ischemic attack
  - Diabetes mellitus requiring Insulin
  - Chronic pulmonary dysfunction
- - Obesity
+ - <div title="Obesity">___________________</div>
  - Anemia
 
 

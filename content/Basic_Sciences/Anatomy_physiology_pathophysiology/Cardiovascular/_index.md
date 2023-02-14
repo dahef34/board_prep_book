@@ -11,55 +11,56 @@ show_breadcrumb: true
 
 ## Basic Review
 
+Before you get started on this section, take some notes and get everything you know down on paper.
 
 1. Inotropy
    - Positive
-      - milrinone
-      - dobutamine
-      - epinephrine
-      - digoxin
-      - calcium  
+      - <div title="milrinone">____________</div>
+      - <div title="dobutamine">____________</div>
+      - <div title="epinephrine">____________</div>
+      - <div title="digoxin">____________</div>
+      - <div title="calcium">____________</div>
    - Negative
-      - beta-blockers
-      - calcium channel blockers
+      - <div title="beta-blockers">____________</div>
+      - <div title="calcium channel blockers">____________</div>
 2. Chronotropy
     - Positive
-      - dopamine
-      - dobutamine
-      - epinephrine
-      - atropine
+      - <div title="dopamine">____________</div>
+      - <div title="dobutamine">____________</div>
+      - <div title="epinephrine">____________</div>
+      - <div title="atropine">____________</div>
     - Negative
-      - amiodarone
-      - beta blockers
-      - non-dihydropyridine calcium channel blockers
-      - digoxin
+      - <div title="amiodarone">____________</div>
+      - <div title="beta blockers">____________</div>
+      - <div title="non-dihydropyridine calcium channel blockers">____________</div>
+      - <div title="digoxin">____________</div>
 3. Dromotropy
     - Positive
-      - isoproterenol
+      - <div title="isoproterenol">____________</div>
     - Negative
-      - Amiodarone
-      - Beta-blocker
-      - Calcium channel blockers
-      - Digoxin
-      - Adenosine
+      - <div title="Amiodarone">____________</div>
+      - <div title="Beta-blocker">____________</div>
+      - <div title="Calcium channel blockers">____________</div>
+      - <div title="Digoxin">____________</div>
+      - <div title="Adenosine">____________</div>
 4. Lusitropy
     - Positive
-      - milrinone
-      - dobutamine
-      - nitroglycerine
-      - nitroprusside
+      - <div title="milrinone">____________</div>
+      - <div title="dobutamine">____________</div>
+      - <div title="nitroglycerine">____________</div>
+      - <div title="nitroprusside">____________</div>
     - Negative
-      - beta blockers
+      - <div title="beta blockers">____________</div>
 4. Bathomotropy
     - Positive
-      - norepinephrine
-      - epinephrine
-      - digoxin
-      - dopamine
-      - dobutamine
+      - <div title="norepinephrine">____________</div>
+      - <div title="epinephrine">____________</div>
+      - <div title="digoxin">____________</div>
+      - <div title="dopamine">____________</div>
+      - <div title="dobutamine">____________</div>
     - Negative
-      - beta-blockers
-      - amiodarone
+      - <div title="beta-blockers">____________</div>
+      - <div title="amiodarone">____________</div>
 
 
 Fill in the blanks before looking at the answer.
@@ -113,56 +114,36 @@ Negative bathmotropes decrease the excitability of the heart.
 ### ***What goes in each of the labeled sections below***
 ![Cardiac Action Potential](Cardiac_action_potential.svg "Cardiac action potential")
 
-{{% expand title="A"%}}
+<div style="display: flex;flex-wrap:wrap;justify-content:space-between;">
+<div title="
 Class 1
 (Na+ channel blocker)
- <ul>
- <li>1a (moderate):</li>
-    <ul><li>Quinidine, Procainamide</li></ul>
- <li>1b (weak):</li>
-    <ul><li>Lidocaine, Phenytoin</li></ul>
- <li>1c (strong):</li>
-    <ul><li>Flecainide, Propafenone</li></ul>
-  </ul>
-{{% /expand %}}
-{{% expand title="B"%}}
-Na+ (In)
-{{% /expand %}}
-{{% expand title="C"%}}
-K+ /Cl− (Out)
-{{% /expand %}}
-{{% expand title="D"%}}
-Ca2+ (In)
-{{% /expand %}}
-{{% expand title="E"%}}
-Class 4
+  1a (moderate):
+    Quinidine, Procainamide
+ 1b (weak):
+    Lidocaine, Phenytoin
+ 1c (strong):
+    Flecainide, Propafenone
+  ">A</div>
+<div title="Na+ (In)">B</div>
+<div title="K+ /Cl− (Out)">C</div>
+<div title="Ca2+ (In)">D</div>
+<div title="Class 4
 (Ca2+ channel blocker)
- <ul>
- <li>Verapimil</li>
- <li>Diltiazem</li>
-  </ul>
-{{% /expand %}}
-{{% expand title="F"%}}
-Class 3
+  Verapimil
+  Diltiazem
+">E</div>
+<div title="Class 3
 (K+ channel blocker)
- <ul>
- <li>Amiodarone</li>
- <li>Sotalol</li>
-  </ul>
-{{% /expand %}}
-{{% expand title="G"%}}
-K+ (Out)
-{{% /expand %}}
-{{% expand title="H"%}}
-K+ (Rectiﬁer)
-{{% /expand %}}
-{{% expand title="I"%}}
-Class 2
+  Amiodarone
+  Sotalol
+">F</div>
+<div title="K+ (Out)">G</div>
+<div title="K+ (Rectiﬁer)">H</div>
+<div title="Class 2
 (β-blocker)
- <ul>
- <li>Propanolol</li>
- <li>Metoprolol</li>
-  </ul>
-
+  Propanolol
+  Metoprolol
   Sotalol exhibits class 2 and class 3 properties.
-{{% /expand %}}
+">I</div>
+</div>

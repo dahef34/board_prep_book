@@ -19,15 +19,17 @@ authors:
 
 Cardiomyopathy is a disease of the heart muscle that affects the ability of the heart to pump blood effectively. It can be classified into several types, including:
 
-- Dilated cardiomyopathy: The heart becomes enlarged and weakened, which leads to a decrease in its ability to pump blood.
-- Hypertrophic cardiomyopathy: The walls of the heart muscle become thickened, which can make it harder for the heart to pump blood.
-- Restrictive cardiomyopathy: The heart becomes stiff and unable to fill properly with blood, leading to decreased ability to pump blood.
+- _____________ cardiomyopathy: The heart becomes enlarged and weakened, which leads to a decrease in its ability to pump blood.
+- _____________ cardiomyopathy: The walls of the heart muscle become thickened, which can make it harder for the heart to pump blood.
+- _____________ cardiomyopathy: The heart becomes stiff and unable to fill properly with blood, leading to decreased ability to pump blood.
 
 Symptoms of cardiomyopathy may include shortness of breath, fatigue, chest pain, and swelling of the legs and feet. It can be caused by a variety of factors such as genetics, viral infections, high blood pressure, and alcohol or drug abuse. Treatment options may include medications, lifestyle changes, and in severe cases, a heart transplant.
 
 ### Systolic Function
 
-The primary determinants of systolic function are cardiac output(stroke volume X heart rate) and ejection fraction(preload, afterload, contractility).  
+{{% expand title="The primary determinants of systolic function are: __________________________________________________________" %}}
+The primary determinants of systolic function are cardiac output(stroke volume X heart rate) and ejection fraction(preload, afterload, contractility).
+{{% /expand %}}  
 
 
 ### Law of Laplace
@@ -81,12 +83,15 @@ Dilated cardiomyopathy (DCM) is a type of cardiomyopathy in which the heart beco
 
 DCM can be caused by a variety of factors, including viral infections, genetic mutations, high blood pressure, alcohol or drug abuse, and other underlying medical conditions such as diabetes and thyroid disease. The symptoms of DCM include shortness of breath, fatigue, chest pain, and swelling in the legs and feet.
 
+
+*Hover your mouse to see the answers*
+
 ***Treatment Options*** [^14]
 1.  ACE inhibitors
-    - Inhibit RAS
-    - Slow disease progression
-    - Reduce mortality
-    - Improve exercise tolerance and dyspnea
+    - <div title="Inhibit RAS">_____________</div>
+    - <div title="Slow disease progression">______________</div>
+    - <div title="Reduce mortality">_________________</div>
+    - <div title="Improve exercise tolerance and dyspnea">________________</div>
 2.  ARBs
     - If intolerant to ACE
 3.  Beta blockers
@@ -122,20 +127,20 @@ Symptoms of HCM can vary widely, and some people may not have any symptoms at al
 Treatment options may include medications, such as beta-blockers, and in severe cases, surgery to remove a portion of the thickened heart muscle or to create a bypass around the obstruction to improve blood flow.
 
 Risk factors for sudden cardiac death include:
-1.  Previous cardiac arrest.
-2.  Sponstaneous sustained VT.
-3.  Family history of sudden death.
-4.  Non-sustained ventricular tachycardia.
-5.  Syncope.
-6.  LVH > 30mm
-7.  Abnormal BP response to exercise.
+1.  <div title="Previous cardiac arrest">_________________</div>
+2.  Sponstaneous sustained VT
+3.  <div title="Family history of sudden death"></div>
+4.  Non-sustained ventricular tachycardia
+5.  Syncope
+6.  LVH > <div title="30mm">_______</div>
+7.  Abnormal BP response to exercise
 
 #### HOCM Management
 
 - Maintain adequate preload and afterload
 - Maintain SVR
-- Avoid sympathetic activation
-- Reduce contractility
+- <div title="Avoid sympathetic activation">____________________</div>
+- <div title="Reduce contractility">__________________</div>
 - Avoid tachycardia and maintain SR
 - Treat hypotension with IV fluids and alpha-adrenergic agonists
 - General anestehsia is preferrable over neuraxial to avoid sympathectomy.
