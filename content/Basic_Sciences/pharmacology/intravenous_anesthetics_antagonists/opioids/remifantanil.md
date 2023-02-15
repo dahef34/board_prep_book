@@ -11,6 +11,7 @@ tags:
 authors: 
     - Justin Hefley
     - Lauren Suszan
+bannerColor: "lightblue"
 ---
 
 Induction Dose: **1 mcg/kg** over 60 seconds  

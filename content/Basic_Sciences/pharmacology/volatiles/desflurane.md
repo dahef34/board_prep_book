@@ -12,6 +12,7 @@ authors:
     - Lauren Suszan
 photo: 
     - 'avatar.jpg'
+bannerColor: 'lightblue'
 ---
 
 #### MAC: **6.6**

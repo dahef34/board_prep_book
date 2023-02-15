@@ -11,6 +11,7 @@ tags:
 authors: 
     - Justin Hefley
     - Lauren Suszan
+bannerColor: "yellow"
 ---
 
 Priming Dose: **0.5 - 1 mcg/kg over 10 min**  

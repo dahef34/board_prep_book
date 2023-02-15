@@ -11,6 +11,7 @@ tags:
 authors: 
     - Justin Hefley
     - Lauren Suszan
+bannerColor: "lightblue"
 ---
 
 Dose: **5 - 40 mg/kg** as sole agent  

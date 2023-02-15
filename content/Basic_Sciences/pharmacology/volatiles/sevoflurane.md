@@ -10,6 +10,7 @@ tags:
 authors:
     - Justin Hefley
     - Lauren Suszan
+bannerColor: "#fcf16f"
 ---
 
 #### MAC: **2**

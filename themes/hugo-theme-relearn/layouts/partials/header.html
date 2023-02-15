@@ -15,7 +15,7 @@
       {{- $title = printf "%s %s " .Title (default "::" .Site.Params.titleSeparator) }}
     {{- end }}
     {{- $title = printf "%s%s" $title .Site.Title }}
-    <title>{{ $title }}</title>
+    <title>{{- $title -}}</title>
 
     {{- if .IsTranslated -}}
       {{- range $index, $trans := .AllTranslations }}

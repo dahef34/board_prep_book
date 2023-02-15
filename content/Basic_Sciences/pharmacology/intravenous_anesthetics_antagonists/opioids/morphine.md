@@ -9,6 +9,7 @@ tags:
 authors: 
     - Justin Hefley
     - Lauren Suszan
+bannerColor: "lightblue"
 ---
 
 Dose: **2.5 - 15 mg**  

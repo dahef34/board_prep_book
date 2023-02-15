@@ -11,6 +11,7 @@ tags:
 authors: 
     - Justin Hefley
     - Lauren Suszan
+bannerColor: "lightblue"
 ---
 
 Induction Dose: **2 - 10 mcg/kg**  

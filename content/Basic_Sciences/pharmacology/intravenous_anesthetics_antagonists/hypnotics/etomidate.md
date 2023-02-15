@@ -10,6 +10,7 @@ tags:
 authors: 
     - Justin Hefley
     - Lauren Suszan
+bannerColor: "yellow"
 ---
 
 Dose: **0.2 - 0.3 mg/kg**  

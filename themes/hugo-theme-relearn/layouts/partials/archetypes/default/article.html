@@ -2,7 +2,13 @@
 {{- $content := .content }}
 {{- with $page }}
           <article class="default">
-{{ partial "heading-pre.html" . }}<h1 id="{{ .Title | anchorize }}">{{ .Title }}</h1>{{ partial "heading-post.html" . }}
+{{ partial "heading-pre.html" . }}
+<div style="position:relative;text-align:center; background-color:{{ .Params.bannerColor }};">
+    <h1 id="{{ .Title | anchorize }}">{{ .Title }}</h1>
+</div>
+
+
+{{ partial "heading-post.html" . }}
 
 {{ $content | safeHTML }}
             <footer class="footline">
