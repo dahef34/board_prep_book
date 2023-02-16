@@ -11,11 +11,9 @@ authors:
 ---
 
 
-## Cardiac Cycle
-
 The cardiac cycle runs from the beginning of one hearbeat to the beginning of the next. The cycle begins in ventricular diastole just after the end of the t-wave on the ekg.  The ventricles are passively filling with blood from the atria.  The next phase (atrial systole) begins with atrial contraction which should show a p-wave on the ekg waveform.  Ventricular systole quickly follows afterwards with a QRS complex now showing on the ekg waveform.  Then the cycle repeats. 
 
-![Cardiac Output Factors](../../heart_cycle.jpg "Wikimedia Commons https://en.wikipedia.org/wiki/Cardiac_cycle#/media/File:2027_Phases_of_the_Cardiac_Cycle.jpg by Open Staxx Collee")
+![Cardiac Output Factors](/images/content/heart_cycle.webp "Wikimedia Commons https://en.wikipedia.org/wiki/Cardiac_cycle#/media/File:2027_Phases_of_the_Cardiac_Cycle.webp by Open Staxx Collee")
 
 
 
@@ -29,29 +27,29 @@ CIED's are broadly divided into the categories containing pacemakers and defibri
 Indications for pacemakers include[^1] 
 1.  Sinus node dysfunction
     - Symptomatic chronotropic incompetence
-    - Symptomatic bradycardia
+    - [{{% badge color="grey" icon="question-circle"  %}}1.__________{{% /badge %}}](#answers)
     - Unexplained syncope with inducible sinus bradycardia
 2.  AV node dysfunction
-    - 3° AV block
+    - [{{% badge color="grey" icon="question-circle"  %}}2.__________{{% /badge %}}](#answers)
     - Type-II 2° block
     - Symptomatic Type-I 2° block
     - Symptomatic 1° block
     - Asymptomatic 1° block with certain coexisting diseases (sarcoidosis, amyloidosis, neuromuscular disease)
     - Drug induced AV block that remains after d/c of drug
 3.  Bifascicular block with:
-    - Alternating bundle branch block
+    - [{{% badge color="grey" icon="question-circle"  %}}3.__________{{% /badge %}}](#answers)
     - Time between Hib bundle potential and onset of ventricular activity > 99 ms.
 4.  STEMI with 2° or 3° AV block
 5.  Carotid sinus syndrome / neurocardio-genic syncope
 6.  Prevention and termination of:
-    - Ventricular tachycardia
+    - [{{% badge color="grey" icon="question-circle"  %}}4.__________{{% /badge %}}](#answers)
     - High-risk patients with congenital long-QT syndrome
     - Refractory a-fib and sinus node syndrome
     - Symptomatic recurrent SVT that is terminated by catheter ablation and pacing and medical management has failed
 7.  Cardiac transplantation patients who develop persistent bradycardia
 8.  Hemodynamic indications
     - Cardiac resynchronization therapy (CRT) in patients with heart failure.
-    - HCM with sinus node dysfunction
+    - [{{% badge color="grey" icon="question-circle"  %}}5.__________{{% /badge %}}](#answers)
 9.  Congenital heart disease with associated bradyarrhythmias or AV block
 
 ***Pacemaker Codes***[^1]
@@ -77,7 +75,7 @@ Indications for ICD include[^1]
 9.  HCM with one or more risk factors for SCD.
 10. Arrhythmogenic right ventricular dysplasia/cardiomyopathy with one or more risk factors for SCD.
 11. Long QT syndrome with syncope and/or VT due to beta- blocker therapy or other risk factors for SCD.
-12. Brugada syndrome with syncope or VT.
+12. [Brugada syndrome](https://pubmed.ncbi.nlm.nih.gov/28139454/) with syncope or VT.
 13. Catecholaminergic polymorphic VT with syncope while receiving beta-blocker therapy.
 14. Diseases associated with cardiac involvement (i.e., Chagas disease, giant cell myocarditis, sarcoidosis)
 15. Familial cardiomyopathy associated with SCD.
@@ -107,7 +105,13 @@ Indications for ICD include[^1]
 9.  Last pacing threshhold
 
 
+#### Answers
 
+- {{% badge color="grey" icon="question-circle" %}}1. Symptomatic bradycardia{{% /badge %}}  
+- {{% badge color="grey" icon="question-circle" %}}2. 3° AV block{{% /badge %}}  
+- {{% badge color="grey" icon="question-circle" %}}3. Alternating bundle branch block{{% /badge %}}  
+- {{% badge color="grey" icon="question-circle" %}}4. Ventricular tachycardia{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" %}}5. HCM with sinus node dysfunction{{% /badge %}}
 
 
 ### References

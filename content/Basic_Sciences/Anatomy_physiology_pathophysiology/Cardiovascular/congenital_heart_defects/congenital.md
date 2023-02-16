@@ -32,7 +32,7 @@ There are many different congenital heart defects that can present in a child.  
 
 READING: Cote [^3] p. 466
 
-![Cardiac Output Factors](../../pda.png "Patent Ductus Arteriosus")[^14]
+![Cardiac Output Factors](/images/content/pda.webp "Patent Ductus Arteriosus")[^14]
 
 
 The ductus arteriosus is a vascular connection between the thoracic aorta and the pulmonary trunk.  Until birth when the lungs are first utilized, pulmonary resistance is high and this connection bypasses that system.  There are many different approaches to close a persistent patent ductus arteriosus.  The success rate of this procedure is high and is rarely associated with a long-term deficit.
@@ -45,7 +45,7 @@ The ductus arteriosus is a vascular connection between the thoracic aorta and th
 
 READING: Cote [^3] p. 467
 
-![Cardiac Output Factors](../../tof.svg "Tetralogy of Fallot")
+![Cardiac Output Factors](/images/content/tof.svg "Tetralogy of Fallot")
 
 
 Tetralogy of Fallot is the most common cyanotic heart disease.  It is characterized by four main defects that work in conjunction: 
@@ -70,7 +70,7 @@ Surgical repair ranges from a multi-staged approach with final repair in later c
 
 READING: Cote [^3] p. 470
 
-![Cardiac Output Factors](../../hypoplastic.svg "Hypoplastic left heart")
+![Cardiac Output Factors](/images/content/hypoplastic.svg "Hypoplastic left heart")
 *Hypoplastic left heart*
 
 
@@ -85,7 +85,7 @@ READING: Cote [^3] p. 470
 
 READING: Cote [^3] p. 468
 
-![Cardiac Output Factors](../../transposition.jpg "Transposition of the great vessels.")
+![Cardiac Output Factors](/images/content/transposition.webp "Transposition of the great vessels.")
 
 
 

@@ -20,17 +20,17 @@ authors:
 
 
 Reference the [2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines](https://www.ahajournals.org/doi/10.1161/CIR.0000000000000923#d1e434)
-![Beating heart](../../CG_Heart.gif "Cross-section of heart pumping")
+![Beating heart](/images/content/CG_Heart.gif "Cross-section of heart pumping")
 
 Let's start by looking at the normal anatomy and the function of each part.  The heart is divided into 4 chambers (2 Atrium / 2 Ventricles) with a septum dividing the right and left heart.  Between the atria and ventricles lie the aptly named atrioventricular valves or the tricuspid and mitral valves.  The tricuspid valve has 3 cusps as it says in the name and the mitral valve gets its name from a bishops mitre if this helps you remember it with 2 flaps.
-![Bishope mitre](../../popehat.png "Bishops mitre")
+![Bishope mitre](/images/content/popehat.webp "Bishops mitre")
 
 At first, I mistakenly thought it was named after a miter joint where two pieces of wood are joined at an angle to form a strong joint.  Either way remember that it typically has two leaflets.
-![Miter joint](../../miter.png "Cross-section of heart pumping")
+![Miter joint](/images/content/miter.webp "Cross-section of heart pumping")
 
 These leafelets are attached to the papillary muscles in the ventricles by chordae tendinae as illustrated in the picture below.  These connections are only in the atrioventricular valves because without them the valves would almost certainly fail with the force of blood ejection during systole.  The aortic and pulmonic valves are called semilunar valves and each typically have 3 leaflets.
 
-![Heart cross section](../../Heart_diagram-en.svg "Cross-section of heart (labeled)")[^14]
+![Heart cross section](/images/content/Heart_diagram-en.svg "Cross-section of heart (labeled)")[^14]
 
 
 {{% notice style="primary" %}}

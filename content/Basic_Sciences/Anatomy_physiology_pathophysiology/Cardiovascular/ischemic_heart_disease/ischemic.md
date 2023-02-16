@@ -17,7 +17,7 @@ Ischemic heart disease happens when there is an imbalance between myocardial oxy
 
 Factors contributing to a decreased oxygen supply:
 
-![Oxygen demand](../../o2demand.svg "Oxygen demand")
+![Oxygen demand](/images/content/o2demand.svg "Oxygen demand")
 
 
 For patients with ischemic heart disease undergoing non-cardiac surgery, the Lee Revised Cardiac Index should be used to determine overall risk and help determine if further optimization is necessary.

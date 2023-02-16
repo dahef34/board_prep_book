@@ -11,7 +11,7 @@ authors:
     - Justin Hefley
     - Lauren Suszan
 photo: 
-    - 'avatar.jpg'
+    - 'avatar.webp'
 bannerColor: 'lightblue'
 ---
 

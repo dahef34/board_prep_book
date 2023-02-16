@@ -9,12 +9,9 @@ show_breadcrumb: true
 ---
 
 
-
-# Cardiac System
-
 The cardiac system consists of the heart and the blood vessels and is responsible for delivering nutrients to the body and removing waste products.
 
-![Cardiac Output Factors](../../cardiac_cycle.svg "DanielChangMD revised original work of DestinyQx; Redrawn as SVG by xavax")
+![Cardiac Output Factors](/images/content/cardiac_cycle.svg "DanielChangMD revised original work of DestinyQx; Redrawn as SVG by xavax")
 
 
 ## Hypertension
@@ -29,7 +26,7 @@ The cardiac system consists of the heart and the blood vessels and is responsibl
 
 
 ## Heart Disease
-![Cardiac Output Factors](../../hd_map.JPG "DanielChangMD revised original work of DestinyQx; Redrawn as SVG by xavax")[^14]
+![Cardiac Output Factors](/images/content/hd_map.webp "DanielChangMD revised original work of DestinyQx; Redrawn as SVG by xavax")[^14]
 
 
 Heart disease is the leading cause of death in the United States. [^15]
@@ -42,22 +39,22 @@ There is an up to five-fold increase in PE after surgery.  The highest risk cate
     - Factor deficiencies (Antithrombin, Protein C/S, prothrombin)
     - Factor V Leiden
 2.  Medications
-    - Hormone replacement therapy
-    - OCPs
+    - [{{% badge color="grey" icon="question-circle"  %}}1.__________{{% /badge %}}](#answers)
+    - [{{% badge color="grey" icon="question-circle"  %}}2.__________{{% /badge %}}](#answers)
     - Chemotherapy
     - Antiphyshotics
     - Heparins
 3.  Surgery
     - Open abdominal procedures
-    - Throacic procedures
+    - [{{% badge color="grey" icon="question-circle"  %}}3.__________{{% /badge %}}](#answers)
     - Hip or leg Fractures
     - Hip or knee replacements
     - General as opposed to regional or neuraxial
 4.  Acquired
     - Elderly
-    - Cancer
+    - [{{% badge color="grey" icon="question-circle"  %}}4.__________{{% /badge %}}](#answers)
     - Reduced mobility
-    - CHF
+    - [{{% badge color="grey" icon="question-circle"  %}}5.__________{{% /badge %}}](#answers)
     - Inflammatory bowel disease
     - Nephrotic syndrome
     - CVC
@@ -83,6 +80,14 @@ Angiography and spiral or helical CT scanning are the gold standard for detectin
 
 Typically patients are manged with pharmacologic treatment and/or mechanical prophylaxis such as an IVC filter.  IVC filters are controversial and problematic since they tend to be less efficacious than pharmacologic prophylaxis and there is an increased incidence of recurrent DVT with their use. 
 
+
+#### Answers
+
+- {{% badge color="grey" icon="question-circle" %}}1. Hormone replacement therapy{{% /badge %}}  
+- {{% badge color="grey" icon="question-circle" %}}2. OCPs{{% /badge %}}  
+- {{% badge color="grey" icon="question-circle" %}}3. Thoracic procedures{{% /badge %}}  
+- {{% badge color="grey" icon="question-circle" %}}4. Cancer{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" %}}5. CHF{{% /badge %}}
 
 
 

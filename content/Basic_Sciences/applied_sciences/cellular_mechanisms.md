@@ -10,7 +10,7 @@ show_breadcrumb: true
 
 ### G-protein coupled receptors
 
-{{< figure src="../gprc.png" caption="Sven Jähnichen, CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/, via Wikimedia Commons">}}
+{{< figure src="../gprc.webp" caption="Sven Jähnichen, CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/, via Wikimedia Commons">}}
 
 These receptors are also called 7-pass transmembrane proteins because they cross the membrane 7 times.  To cross the membrane they have hydrophobic and hydrophilic amino acids with the N-terminus extracellularly and the C-terminus intracellularly.  Transmembrand lipid rafts are where GPCR's have modified cystein residues that happen through a process known as palmitoylation.  These lipid rafts play a crucial role in the function of volatile anesthetics.[^15]
 

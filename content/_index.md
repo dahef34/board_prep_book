@@ -3,7 +3,7 @@ title: NCE Board Prep
 linkTitle: NCE Board Prep
 summary: Simple board prep study materials for students
 date: '2022-12-02'
-type: home
+archetype: home
 tags:
   - intro
 weight: 10
@@ -14,7 +14,6 @@ show_breadcrumb: true
 pager: true
 ---
 
-## NCE Board Prep
 #### By AnestheTIPS
 
 Use the links below as well as the bread crumbs above to navigate the content.  The bibliography below will be listed for references in each of the sections.
@@ -23,8 +22,8 @@ Use the links below as well as the bread crumbs above to navigate the content.  
 {{% children depth="999" showhidden="true" %}}
 
 # Bibliography
-1. <span style="color:blue">Barash PG, Cullen BF, Stoelting RK, Cahalan MK, Stock MC, Ortega R, Sharar SR, Holt NF, eds. Clinical Anesthesia. 8th edition. Wolters Kluwer; 2017.</span>
-2. <span style="color:purple">Chestnut DH, Wong CA, Tsen LC, Ngan Kee WD, Beilin Y, Mhyre JM, Bateman BT, eds. 6th edition. Elsevier; 2020.</span>
+{{% badge color="blue" title="1. " %}}Barash{{% /badge %}}<span style="color:blue"> - Barash PG, Cullen BF, Stoelting RK, Cahalan MK, Stock MC, Ortega R, Sharar SR, Holt NF, eds. Clinical Anesthesia. 8th edition. Wolters Kluwer; 2017.</span>  
+{{% badge color="purple" title="2. " %}}Chestnut{{% /badge %}}<span style="color:purple"> - Chestnut DH, Wong CA, Tsen LC, Ngan Kee WD, Beilin Y, Mhyre JM, Bateman BT, eds. 6th edition. Elsevier; 2020.</span>
 3. <span style="color:pink">Coté CJ, Lerman J, Anderson BJ. Coté and Lerman's A Practice of Anesthesia for Infants and Children. 6th edition. Elsevier; 2018.</span>
 4. <span style="color:brown">Ehrenwerth J, Eisenkraft J, Berry J, eds. Anesthesia Equipment: Principles and Applications. 3rd edition. Elsevier; 2020.</span>
 5. <span style="color:green">Farag E, Mounir-Soliman L, Brown DL. Brown's Atlas of Regional Anesthesia. 6th edition. Elsevier; 2020.</span>

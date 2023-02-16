@@ -33,7 +33,7 @@ For dental procedures involving the gingiva, area around the teeth (periapical),
 The most commonly acquired heart disease in people under the age of 25.  It starts as a sore throat from group A streptococcus (Streptococcus pyogenes).  Treatment of the sore throat with appropriate antibiotics with prevent rheumatic fever and rheumatic heart disease, but once there is damage to the heart valves, it is permanent and will often require surgery to replace or repair the damaged valves.
 
 ## Pericarditis
-![Pericarditis](../../Pericarditis.png "Pericarditis")
+![Pericarditis](/images/content/Pericarditis.webp "Pericarditis")
 
 
 Pericarditis is an inflammation of the sac containing the heart (pericardium).  Pericarditis can be idiopathic or viral and the most common symptom is a stabbing chest pain.

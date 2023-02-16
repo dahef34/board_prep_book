@@ -8,7 +8,7 @@ section = ["HTML", "RSS", "PRINT"]
 page = ["HTML", "RSS", "PRINT"]
 
 [params]
-themeVariant = "relearn-light"
+themeVariant = "nce"
   [features]
     [avatar]
       gravatar = false

@@ -14,20 +14,22 @@ authors:
 
 
 
-![Ai Generated Heart Failure](../../ai_hf.png "AI generated image of elderly man with heart failure")
+![Ai Generated Heart Failure](/images/content/ai_hf.webp?width=40vw "AI generated image of elderly man with heart failure")
+
 
 
 Cardiomyopathy is a disease of the heart muscle that affects the ability of the heart to pump blood effectively. It can be classified into several types, including:
 
-- _____________ cardiomyopathy: The heart becomes enlarged and weakened, which leads to a decrease in its ability to pump blood.
-- _____________ cardiomyopathy: The walls of the heart muscle become thickened, which can make it harder for the heart to pump blood.
-- _____________ cardiomyopathy: The heart becomes stiff and unable to fill properly with blood, leading to decreased ability to pump blood.
+- [{{% badge color="grey" icon="question-circle" title="" %}}1.__________{{% /badge %}}](#answers) cardiomyopathy: The heart becomes enlarged and weakened, which leads to a decrease in its ability to pump blood.
+- [{{% badge color="grey" icon="question-circle" title="" %}}2.__________{{% /badge %}}](#answers) cardiomyopathy: The walls of the heart muscle become thickened, which can make it harder for the heart to pump blood.
+- [{{% badge color="grey" icon="question-circle" title="" %}}3.__________{{% /badge %}}](#answers) cardiomyopathy: The heart becomes stiff and unable to fill properly with blood, leading to decreased ability to pump blood.
 
 Symptoms of cardiomyopathy may include shortness of breath, fatigue, chest pain, and swelling of the legs and feet. It can be caused by a variety of factors such as genetics, viral infections, high blood pressure, and alcohol or drug abuse. Treatment options may include medications, lifestyle changes, and in severe cases, a heart transplant.
 
 ### Systolic Function
 
-{{% expand title="The primary determinants of systolic function are: __________________________________________________________" %}}
+
+{{% expand title="The primary determinants of systolic function are: " %}}
 The primary determinants of systolic function are cardiac output(stroke volume X heart rate) and ejection fraction(preload, afterload, contractility).
 {{% /expand %}}  
 
@@ -35,6 +37,7 @@ The primary determinants of systolic function are cardiac output(stroke volume X
 ### Law of Laplace
 
 The law of Laplace, also known as Laplace's law, states that the pressure exerted by the walls of an organ or vessel is directly proportional to the tension of those walls and inversely proportional to the radius of the organ or vessel. In other words, it states that the internal pressure of a spherical vessel is proportional to the radius and the tension of the walls.
+
 
 {{% expand title="What is the formula for cardiac output?" %}}
 
@@ -44,8 +47,9 @@ $$CO_{[L/min]} = SV_{[L/beat]} * HR_{[beats/min]}$$
 {{% /expand %}}
 
 
+
 {{% expand title = "What are the factors affecting stroke volume and heart rate?" %}}
-![Cardiac Output Factors](../../CO_factors.jpeg "OpenStax College, CC BY 3.0 https://Creativecommons.org/licenses/by/3.0, via Wikimedia Commons")
+![Cardiac Output Factors](/images/content/CO_factors.webp "OpenStax College, CC BY 3.0 https://Creativecommons.org/licenses/by/3.0, via Wikimedia Commons")
 
 {{< /expand >}}
 
@@ -68,12 +72,12 @@ $$Wall\ Tension = Pressure * Radius$$
 
 
 ### Myocardial Contractility
-![Cardiac Output Factors](../../cardiac_pv_loop.jpg "Andyhenton83, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons")
+![Cardiac Output Factors](/images/content/cardiac_pv_loop.webp "Andyhenton83, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons")
 
 
 
 
-![Cardiac Output Factors](../../cardiomyopathy.png "Npatchett, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
+![Cardiac Output Factors](/images/content/cardiomyopathy.webp "Npatchett, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
 
 
 
@@ -84,14 +88,14 @@ Dilated cardiomyopathy (DCM) is a type of cardiomyopathy in which the heart beco
 DCM can be caused by a variety of factors, including viral infections, genetic mutations, high blood pressure, alcohol or drug abuse, and other underlying medical conditions such as diabetes and thyroid disease. The symptoms of DCM include shortness of breath, fatigue, chest pain, and swelling in the legs and feet.
 
 
-*Hover your mouse to see the answers*
+
 
 ***Treatment Options*** [^14]
 1.  ACE inhibitors
-    - <div title="Inhibit RAS">_____________</div>
-    - <div title="Slow disease progression">______________</div>
-    - <div title="Reduce mortality">_________________</div>
-    - <div title="Improve exercise tolerance and dyspnea">________________</div>
+    - [{{% badge color="grey" icon="question-circle" %}}9.__________{{% /badge %}}](#answers)
+    - [{{% badge color="grey" icon="question-circle" %}}10._________{{% /badge %}}](#answers)
+    - [{{% badge color="grey" icon="question-circle" %}}11._________{{% /badge %}}](#answers)
+    - [{{% badge color="grey" icon="question-circle" %}}12._________{{% /badge %}}](#answers)
 2.  ARBs
     - If intolerant to ACE
 3.  Beta blockers
@@ -127,20 +131,20 @@ Symptoms of HCM can vary widely, and some people may not have any symptoms at al
 Treatment options may include medications, such as beta-blockers, and in severe cases, surgery to remove a portion of the thickened heart muscle or to create a bypass around the obstruction to improve blood flow.
 
 Risk factors for sudden cardiac death include:
-1.  <div title="Previous cardiac arrest">_________________</div>
+1. [{{% badge color="grey" icon="question-circle" %}}13._________{{% /badge %}}](#answers)
 2.  Sponstaneous sustained VT
-3.  <div title="Family history of sudden death"></div>
+3. [{{% badge color="grey" icon="question-circle" %}}14._________{{% /badge %}}](#answers)
 4.  Non-sustained ventricular tachycardia
 5.  Syncope
-6.  LVH > <div title="30mm">_______</div>
+6. [{{% badge color="grey" icon="question-circle" %}}15._________{{% /badge %}}](#answers)
 7.  Abnormal BP response to exercise
 
 #### HOCM Management
 
 - Maintain adequate preload and afterload
 - Maintain SVR
-- <div title="Avoid sympathetic activation">____________________</div>
-- <div title="Reduce contractility">__________________</div>
+- [{{% badge color="grey" icon="question-circle" %}}16._________{{% /badge %}}](#answers)
+- [{{% badge color="grey" icon="question-circle" %}}17._________{{% /badge %}}](#answers)
 - Avoid tachycardia and maintain SR
 - Treat hypotension with IV fluids and alpha-adrenergic agonists
 - General anestehsia is preferrable over neuraxial to avoid sympathectomy.
@@ -158,6 +162,23 @@ Treatment options for RCM may include medications such as diuretics and other me
 2.  Maintain SVR
 3.  Maintain sinus rhythm
 4.  Prefer etomidate or ketamine to reduce myocardial depression
+
+### Answers
+
+- {{% badge color="grey" icon="question-circle" %}}1. Dilated{{% /badge %}}  
+- {{% badge color="grey" icon="question-circle" %}}2. Hypertrophic{{% /badge %}}  
+- {{% badge color="grey" icon="question-circle" %}}3. Restrictive{{% /badge %}}  
+- {{% badge color="grey" icon="question-circle" %}}9. Inhibit RAS{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" %}}10. Slow disease progression{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" %}}11. Reduce mortality{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" %}}12. Improve exercise tolerance and dyspnea{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" %}}13. Previous cardiac arrest{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" %}}14. Family history of sudden death{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" %}}15. LVH > 30mm{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" %}}16. Avoid sympathetic activation{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" %}}17. Reduce contractility{{% /badge %}}
+
+
 
 ### References
 
