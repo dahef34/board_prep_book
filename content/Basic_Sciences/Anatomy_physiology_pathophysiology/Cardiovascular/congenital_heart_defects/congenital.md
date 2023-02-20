@@ -20,9 +20,9 @@ There are many different congenital heart defects that can present in a child.  
 
 |Right --> Left       | Left --> Right |  Mixing Lesions                |  Obstructive Lesions     |
 | ------------------- | ---------------| ------------------------------ | ------------------------ |
-| Tetralogy of Fallot | VSD            | Tricuspid Artresia             | Coarctation of the Aorta |
-| Pulmonary artresia  | ASD            | Anomalous venous return        | Aortic/mitral stenosis   | 
-| Eismenger complex   | PDA            | Transposition of great vessels | Interrupted aortic  arch |
+| Tetralogy of Fallot | VSD            | [{{% badge color="grey" icon="question-circle" title="" %}}3.__________{{% /badge %}}](#answers)             | [{{% badge color="grey" icon="question-circle" title="" %}}4.__________{{% /badge %}}](#answers) |
+| [{{% badge color="grey" icon="question-circle" title="" %}}1.__________{{% /badge %}}](#answers)  | ASD            | Anomalous venous return        | Aortic/mitral stenosis   | 
+| [{{% badge color="grey" icon="question-circle" title="" %}}2.__________{{% /badge %}}](#answers)   | PDA            | Transposition of great vessels | Interrupted aortic  arch |
 
 
 
@@ -50,14 +50,14 @@ READING: Cote [^3] p. 467
 
 Tetralogy of Fallot is the most common cyanotic heart disease.  It is characterized by four main defects that work in conjunction: 
 1. `Right` ventricular outflow tract obstruction
-2. Ventricular septal defect
+2. [{{% badge color="grey" icon="question-circle" title="" %}}5.__________{{% /badge %}}](#answers)
 3. `Right` ventricular hypertrophy
 4. Overriding aorta
 
 Surgical repair ranges from a multi-staged approach with final repair in later childhood to a single surgery in infancy.  Either way, primary preanesthetic goals should include:
 - Optimizing `right` ventricular filling
 - Supporting `right` ventricular function
-- Decreasing pulmonary vascular resistance
+- [{{% badge color="grey" icon="question-circle" title="" %}}6.__________{{% /badge %}}](#answers)
 - Decreasing peak inspiratory pressures
 
 
@@ -96,26 +96,31 @@ READING: Cote [^3] p. 468
 
 {{< youtube id="gYLeNjU" >}}
 
-
-
+#### Answers
+- {{% badge color="grey" icon="question-circle" title="1. " %}}Pulmonary artresia{{% /badge %}}  
+- {{% badge color="grey" icon="question-circle" title="2. " %}}Eismenger complex{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" title="3. " %}}Tricuspid artresia{{% /badge %}} 
+- {{% badge color="grey" icon="question-circle" title="4. " %}}Coarctation of the aorta{{% /badge %}} 
+- {{% badge color="grey" icon="question-circle" title="5. " %}}Ventricular septal defect{{% /badge %}} 
+- {{% badge color="grey" icon="question-circle" title="6. " %}}Decreasing pulmonary vascular resistance{{% /badge %}} 
 
 
 
 
 ### References
 
-[^1]: <span style="color:blue">Barash PG, Cullen BF, Stoelting RK, Cahalan MK, Stock MC, Ortega R, Sharar SR, Holt NF, eds. Clinical Anesthesia. 8th edition. Wolters Kluwer; 2017.</span>
-[^2]: <span style="color:purple">Chestnut DH, Wong CA, Tsen LC, Ngan Kee WD, Beilin Y, Mhyre JM, Bateman BT, eds. 6th edition. Elsevier; 2020.</span>
-[^3]: <span style="color:pink">Coté CJ, Lerman J, Anderson BJ. Coté and Lerman's A Practice of Anesthesia for Infants and Children. 6th edition. Elsevier; 2018.</span>
-[^4]: <span style="color:brown">Ehrenwerth J, Eisenkraft J, Berry J, eds. Anesthesia Equipment: Principles and Applications. 3rd edition. Elsevier; 2020.</span>
-[^5]: <span style="color:green">Farag E, Mounir-Soliman L, Brown DL. Brown's Atlas of Regional Anesthesia. 6th edition. Elsevier; 2020.</span>
-[^6]: <span style="color:red">Flood P, Rathmell JP, Urman RD, eds. Stoelting's Pharmacology & Physiology in Anesthetic Practice. 6th edition. Wolters Kluwer; 2021.</span>
-[^7]: <span style="color:yellow">Foster SD, Callahan MF, eds. A Professional Study and Resource Guide for the CRNA. 2nd edition. American Association of Nurse Anesthetists; 2011.</span>
-[^8]: <span style="color:orange">Gropper MA, Cohen NH, Eriksson LI, Fleisher LA, Leslie K, Wiener-Kronish JP, eds. Miller's Anesthesia (Vols. 1-2). 9th edition. Elsevier; 2019.</span>
-[^9]: <span style="color:indigo">Rosenblatt WH, Popescu WM. Master Techniques in Upper and Lower Airway Management. Wolters Kluwer (LWW); 2015.</span>
-[^10]: <span style="color:teal">Hall JE, Hall ME. Guyton and Hall Textbook of Medical Physiology. 14th edition. Elsevier; 2020.</span>
-[^11]: <span style="color:maroon">Hines RL, Jones SB, eds. Stoelting's Anesthesia and Co-existing Disease. 8th edition. Elsevier; 2021.</span>
-[^12]: <span style="color:aquamarine">Jaffe RA, Schmiesing CA, Golianu B. Anesthesiologist's Manual of Surgical Procedures. 6th ed. Wolters Kluwer; 2020.</span>
-[^13]: <span style="color:darkgreen">Nagelhout JJ, Elisha S, Heiner JS, eds. Nurse Anesthesia. 7th edition. Elsevier; 2020.</span>
+[^1]: {{% badge color="blue" title="1. " %}}Barash{{% /badge %}}<span style="color:blue"> - Barash PG, Cullen BF, Stoelting RK, Cahalan MK, Stock MC, Ortega R, Sharar SR, Holt NF, eds. Clinical Anesthesia. 8th edition. Wolters Kluwer; 2017.</span>  
+[^2]: {{% badge color="purple" title="2. " %}}Chestnut{{% /badge %}}<span style="color:purple"> - Chestnut DH, Wong CA, Tsen LC, Ngan Kee WD, Beilin Y, Mhyre JM, Bateman BT, eds. 6th edition. Elsevier; 2020.</span>  
+[^3]: {{% badge color="pink" title="3. " %}}Cote{{% /badge %}} - <span style="color:pink">Coté CJ, Lerman J, Anderson BJ. Coté and Lerman's A Practice of Anesthesia for Infants and Children. 6th edition. Elsevier; 2018.</span>  
+[^4]: {{% badge color="brown" title="4. " %}}Ehrenwerth{{% /badge %}} - <span style="color:brown">Ehrenwerth J, Eisenkraft J, Berry J, eds. Anesthesia Equipment: Principles and Applications. 3rd edition. Elsevier; 2020.</span>  
+[^5]: {{% badge color="green" title="5. " %}}Farag{{% /badge %}} - <span style="color:green">Farag E, Mounir-Soliman L, Brown DL. Brown's Atlas of Regional Anesthesia. 6th edition. Elsevier; 2020.</span>  
+[^6]: {{% badge color="red" title="6. " %}}Flood{{% /badge %}} - <span style="color:red">Flood P, Rathmell JP, Urman RD, eds. Stoelting's Pharmacology & Physiology in Anesthetic Practice. 6th edition. Wolters Kluwer; 2021.</span>  
+[^7]: {{% badge color="grey" title="7. " %}}Foster{{% /badge %}} - <span style="color:grey">Foster SD, Callahan MF, eds. A Professional Study and Resource Guide for the CRNA. 2nd edition. American Association of Nurse Anesthetists; 2011.</span>  
+[^8]: {{% badge color="orange" title="8. " %}}Gropper{{% /badge %}} - <span style="color:orange">Gropper MA, Cohen NH, Eriksson LI, Fleisher LA, Leslie K, Wiener-Kronish JP, eds. Miller's Anesthesia (Vols. 1-2). 9th edition. Elsevier; 2019.</span>  
+[^9]: {{% badge color="indigo" title="9. " %}}Rosenblatt{{% /badge %}} - <span style="color:indigo">Rosenblatt WH, Popescu WM. Master Techniques in Upper and Lower Airway Management. Wolters Kluwer (LWW); 2015.</span>  
+[^10]: {{% badge color="teal" title="10. " %}}Hall{{% /badge %}} - <span style="color:teal">Hall JE, Hall ME. Guyton and Hall Textbook of Medical Physiology. 14th edition. Elsevier; 2020.</span>  
+[^11]: {{% badge color="maroon" title="11. " %}}Hines{{% /badge %}} - <span style="color:maroon">Hines RL, Jones SB, eds. Stoelting's Anesthesia and Co-existing Disease. 8th edition. Elsevier; 2021.</span>  
+[^12]: {{% badge color="aquamarine" title="12. " %}}Jaffe{{% /badge %}} - <span style="color:aquamarine">Jaffe RA, Schmiesing CA, Golianu B. Anesthesiologist's Manual of Surgical Procedures. 6th ed. Wolters Kluwer; 2020.</span>  
+[^13]: {{% badge color="darkgreen" title="13. " %}}Nagelhout{{% /badge %}} - <span style="color:darkgreen">Nagelhout JJ, Elisha S, Heiner JS, eds. Nurse Anesthesia. 7th edition. Elsevier; 2020.</span>
 [^14]: Blausen.com staff (2014). "Medical gallery of Blausen Medical 2014". WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436.
 

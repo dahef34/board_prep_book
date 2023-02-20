@@ -1,39 +1,38 @@
 ---
-title: Ketamine
-date: '2023-02-02'
+title: "Cisatracurium"
+date: 2023-02-20T13:22:42-05:00
+draft: true
 type: page
-weight: 1529
+weight: 
 commentable: true
-show_breadcrumb: true
-tags: 
-    - ketamine
-authors: 
-    - Justin Hefley
+tags:
+    - cisatracurium
+authors:
     - Lauren Suszan
-bannerColor: "yellow"
+    - Justin Hefley
+bannerColor: "#f25050"
 ---
 
-Dose: **1 - 2 mg/kg**  
-Onset: **30 - 60 seconds**  
-Peak: **1 minute**  
-Duration: **5 - 20 minutes**  
-Elimination: **Hepatic**  
-Mechanism of Action: **Non-competitive NMDA antagonist**  
+Dose: **0.2 mg/kg**  
+Maintenance: **0.02-0.1 mg/kg**   
+Onset: **3 - 4 minutes**  
+Peak: **3 - 5 minutes**   
+Duration: **15 - 35 minutes**  
+Elimination: **Hoffman Elimination (pH/temp)**  
+Mechanism of Action: **Nicotinic M receptor antagonist (competitive inhibition)**  
 
 
-- Dissassociative anesthetic
-- Blocks Mg exit from NMDA channel
-- Concentration 10 mg/mL
-- Protein Binding 12-35%
-- ↑ {{< math >}}MVO$_2${{< /math >}}, CBF, ICP, nystagmus, saliva, lacrimation, bronchodilation, analgesia, amnesia, emergence phenomenon
-- Awakening due to redistribution
-- If no catecholamine present, ketamine has direct depressent effect on myocardium
-- Airway reflexes remain intact in moderate doses
-- Active metabolite {{< math >}}$\rightarrow${{< /math >}} Norketamine {{< math >}}$ \bar{c} \frac{1}{3}${{< /math >}} potency
+- Final concentration = 2 mg/ml
+- Benzylisoquinoline structure with quarternary group
+- Laudanosine metabolite but much less than atracurium due to potency
+- Caution in seizure patients
+- Acceptable for liver/renal patients
+- No histamine release
 
 
 ##### Bibliography
-[^1], [^6], [^15], [^14], [^16], [^17]
+[^6], [^11],[^14]
+
 
 
 
@@ -50,8 +49,3 @@ Mechanism of Action: **Non-competitive NMDA antagonist**
 [^11]: {{% badge color="maroon" title="11. " %}}Hines{{% /badge %}} - <span style="color:maroon">Hines RL, Jones SB, eds. Stoelting's Anesthesia and Co-existing Disease. 8th edition. Elsevier; 2021.</span>  
 [^12]: {{% badge color="aquamarine" title="12. " %}}Jaffe{{% /badge %}} - <span style="color:aquamarine">Jaffe RA, Schmiesing CA, Golianu B. Anesthesiologist's Manual of Surgical Procedures. 6th ed. Wolters Kluwer; 2020.</span>  
 [^13]: {{% badge color="darkgreen" title="13. " %}}Nagelhout{{% /badge %}} - <span style="color:darkgreen">Nagelhout JJ, Elisha S, Heiner JS, eds. Nurse Anesthesia. 7th edition. Elsevier; 2020.</span>
-[^14]: Omogui S, Sota Omoigui's Anesthesia Drug Handbook. S.O.T.A Technologies, Inc.; 1991.
-[^15]: Evers AS, Maze M, Kharasch ED, eds. Anesthetic Pharmacology ; [Basic Principles and Clinical Practice]. 2. ed. Cambridge Univ. Press; 2011.
-[^16]: Brinck E, Tiippana E, Heesen M, et al. Perioperative intravenous ketamine for acute postoperative pain in adults. CDSR. Published online December 20, 2018. doi:10.1002/14651858.CD012033.pub4
-[^17]: Radford KD, Park TY, Jaiswal S, et al. Enhanced fear memories and brain glucose metabolism (18F-FDG-PET) following sub-anesthetic intravenous ketamine infusion in Sprague-Dawley rats. Transl Psychiatry. 2018;8(1):263. doi:10.1038/s41398-018-0310-8
-

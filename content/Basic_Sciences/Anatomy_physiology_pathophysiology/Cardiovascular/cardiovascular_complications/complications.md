@@ -83,29 +83,29 @@ Typically patients are manged with pharmacologic treatment and/or mechanical pro
 
 #### Answers
 
-- {{% badge color="grey" icon="question-circle" %}}1. Hormone replacement therapy{{% /badge %}}  
-- {{% badge color="grey" icon="question-circle" %}}2. OCPs{{% /badge %}}  
-- {{% badge color="grey" icon="question-circle" %}}3. Thoracic procedures{{% /badge %}}  
-- {{% badge color="grey" icon="question-circle" %}}4. Cancer{{% /badge %}}
-- {{% badge color="grey" icon="question-circle" %}}5. CHF{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" title="1. " %}}Hormone replacement therapy{{% /badge %}}  
+- {{% badge color="grey" icon="question-circle" title="2. " %}}OCPs{{% /badge %}}  
+- {{% badge color="grey" icon="question-circle" title="3. " %}}Thoracic procedures{{% /badge %}}  
+- {{% badge color="grey" icon="question-circle" title="4. " %}}Cancer{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" title="5. " %}}CHF{{% /badge %}}
 
 
 
 ### References
 
-[^1]: <span style="color:blue">Barash PG, Cullen BF, Stoelting RK, Cahalan MK, Stock MC, Ortega R, Sharar SR, Holt NF, eds. Clinical Anesthesia. 8th edition. Wolters Kluwer; 2017.</span>
-[^2]: <span style="color:purple">Chestnut DH, Wong CA, Tsen LC, Ngan Kee WD, Beilin Y, Mhyre JM, Bateman BT, eds. 6th edition. Elsevier; 2020.</span>
-[^3]: <span style="color:pink">Coté CJ, Lerman J, Anderson BJ. Coté and Lerman's A Practice of Anesthesia for Infants and Children. 6th edition. Elsevier; 2018.</span>
-[^4]: <span style="color:brown">Ehrenwerth J, Eisenkraft J, Berry J, eds. Anesthesia Equipment: Principles and Applications. 3rd edition. Elsevier; 2020.</span>
-[^5]: <span style="color:green">Farag E, Mounir-Soliman L, Brown DL. Brown's Atlas of Regional Anesthesia. 6th edition. Elsevier; 2020.</span>
-[^6]: <span style="color:red">Flood P, Rathmell JP, Urman RD, eds. Stoelting's Pharmacology & Physiology in Anesthetic Practice. 6th edition. Wolters Kluwer; 2021.</span>
-[^7]: <span style="color:yellow">Foster SD, Callahan MF, eds. A Professional Study and Resource Guide for the CRNA. 2nd edition. American Association of Nurse Anesthetists; 2011.</span>
-[^8]: <span style="color:orange">Gropper MA, Cohen NH, Eriksson LI, Fleisher LA, Leslie K, Wiener-Kronish JP, eds. Miller's Anesthesia (Vols. 1-2). 9th edition. Elsevier; 2019.</span>
-[^9]: <span style="color:indigo">Rosenblatt WH, Popescu WM. Master Techniques in Upper and Lower Airway Management. Wolters Kluwer (LWW); 2015.</span>
-[^10]: <span style="color:teal">Hall JE, Hall ME. Guyton and Hall Textbook of Medical Physiology. 14th edition. Elsevier; 2020.</span>
-[^11]: <span style="color:maroon">Hines RL, Jones SB, eds. Stoelting's Anesthesia and Co-existing Disease. 8th edition. Elsevier; 2021.</span>
-[^12]: <span style="color:aquamarine">Jaffe RA, Schmiesing CA, Golianu B. Anesthesiologist's Manual of Surgical Procedures. 6th ed. Wolters Kluwer; 2020.</span>
-[^13]: <span style="color:darkgreen">Nagelhout JJ, Elisha S, Heiner JS, eds. Nurse Anesthesia. 7th edition. Elsevier; 2020.</span>
+[^1]: {{% badge color="blue" title="1. " %}}Barash{{% /badge %}}<span style="color:blue"> - Barash PG, Cullen BF, Stoelting RK, Cahalan MK, Stock MC, Ortega R, Sharar SR, Holt NF, eds. Clinical Anesthesia. 8th edition. Wolters Kluwer; 2017.</span>  
+[^2]: {{% badge color="purple" title="2. " %}}Chestnut{{% /badge %}}<span style="color:purple"> - Chestnut DH, Wong CA, Tsen LC, Ngan Kee WD, Beilin Y, Mhyre JM, Bateman BT, eds. 6th edition. Elsevier; 2020.</span>  
+[^3]: {{% badge color="pink" title="3. " %}}Cote{{% /badge %}} - <span style="color:pink">Coté CJ, Lerman J, Anderson BJ. Coté and Lerman's A Practice of Anesthesia for Infants and Children. 6th edition. Elsevier; 2018.</span>  
+[^4]: {{% badge color="brown" title="4. " %}}Ehrenwerth{{% /badge %}} - <span style="color:brown">Ehrenwerth J, Eisenkraft J, Berry J, eds. Anesthesia Equipment: Principles and Applications. 3rd edition. Elsevier; 2020.</span>  
+[^5]: {{% badge color="green" title="5. " %}}Farag{{% /badge %}} - <span style="color:green">Farag E, Mounir-Soliman L, Brown DL. Brown's Atlas of Regional Anesthesia. 6th edition. Elsevier; 2020.</span>  
+[^6]: {{% badge color="red" title="6. " %}}Flood{{% /badge %}} - <span style="color:red">Flood P, Rathmell JP, Urman RD, eds. Stoelting's Pharmacology & Physiology in Anesthetic Practice. 6th edition. Wolters Kluwer; 2021.</span>  
+[^7]: {{% badge color="grey" title="7. " %}}Foster{{% /badge %}} - <span style="color:grey">Foster SD, Callahan MF, eds. A Professional Study and Resource Guide for the CRNA. 2nd edition. American Association of Nurse Anesthetists; 2011.</span>  
+[^8]: {{% badge color="orange" title="8. " %}}Gropper{{% /badge %}} - <span style="color:orange">Gropper MA, Cohen NH, Eriksson LI, Fleisher LA, Leslie K, Wiener-Kronish JP, eds. Miller's Anesthesia (Vols. 1-2). 9th edition. Elsevier; 2019.</span>  
+[^9]: {{% badge color="indigo" title="9. " %}}Rosenblatt{{% /badge %}} - <span style="color:indigo">Rosenblatt WH, Popescu WM. Master Techniques in Upper and Lower Airway Management. Wolters Kluwer (LWW); 2015.</span>  
+[^10]: {{% badge color="teal" title="10. " %}}Hall{{% /badge %}} - <span style="color:teal">Hall JE, Hall ME. Guyton and Hall Textbook of Medical Physiology. 14th edition. Elsevier; 2020.</span>  
+[^11]: {{% badge color="maroon" title="11. " %}}Hines{{% /badge %}} - <span style="color:maroon">Hines RL, Jones SB, eds. Stoelting's Anesthesia and Co-existing Disease. 8th edition. Elsevier; 2021.</span>  
+[^12]: {{% badge color="aquamarine" title="12. " %}}Jaffe{{% /badge %}} - <span style="color:aquamarine">Jaffe RA, Schmiesing CA, Golianu B. Anesthesiologist's Manual of Surgical Procedures. 6th ed. Wolters Kluwer; 2020.</span>  
+[^13]: {{% badge color="darkgreen" title="13. " %}}Nagelhout{{% /badge %}} - <span style="color:darkgreen">Nagelhout JJ, Elisha S, Heiner JS, eds. Nurse Anesthesia. 7th edition. Elsevier; 2020.</span>
 [^14]: https://nccd.cdc.gov/DHDSPAtlas/?state=County&class=1&subclass=1&theme=1&filters=[[9,1],[2,1],[3,1],[4,1],[7,1]]&ol=[10,14]
 [^15]: Centers for Disease Control and Prevention, National Center for Health Statistics. About Multiple Cause of Death, 1999–2020. CDC WONDER Online Database website. Atlanta, GA: Centers for Disease Control and Prevention; 2022. Accessed February 21, 2022.
 [^16]: Whelton P, Carey R, Aronow W, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults. J Am Coll Cardiol. 2018 May, 71 (19) e127–e248. https://doi.org/10.1016/j.jacc.2017.11.006
