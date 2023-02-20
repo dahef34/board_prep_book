@@ -6,7 +6,8 @@ weight: 1530
 commentable: true
 show_breadcrumb: true
 tags: 
-    - midazolam
+    - rocuronium
+    - muscle relaxant
 authors: 
     - Justin Hefley
     - Lauren Suszan

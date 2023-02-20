@@ -1,6 +1,26 @@
-{{- with .Params.LastModifierDisplayName }}
-            <i class='fas fa-user'></i> {{ with $.Params.LastModifierEmail }}<a href="mailto:{{ . }}">{{ end }}{{ . }}{{ with $.Params.LastModifierEmail }}</a>{{ end }}
-  {{- with $.Date }}
-            <i class='fas fa-calendar'></i> {{ . | time.Format ":date_medium" }}
-  {{- end }}
-{{- end }}
+
+
+<div class="box" style="display:flex; align-items: stretch; row-gap: 10px; column-gap:10px;">
+{{- range .Params.authors }}
+
+  {{- with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize .)) }}
+  
+  <div class="column" style="display:flex;">
+    <div class="card" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); padding-right: 10px;height: 150px; width:350px">
+      <div class="column" style="display:flex;">
+        <img src="{{ .Permalink }}avatar.jpg" alt="" style="vertical-align: middle;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;"/>
+      <div class="column">
+        <p>{{ .Params.title }}</p>
+        <p class="title">{{ .Params.role }}</p>
+        <p><button class="button"><a href="{{ .Permalink }}">Profile</a></button></p>
+      </div>
+    </div>
+  </div>
+  </div>
+   
+  {{ end }}
+  {{ end }}
+</div>
