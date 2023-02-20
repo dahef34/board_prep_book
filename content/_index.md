@@ -4,6 +4,7 @@ linkTitle: NCE Board Prep
 summary: Simple board prep study materials for students
 date: '2022-12-02'
 archetype: home
+type: home
 tags:
   - intro
 weight: 10

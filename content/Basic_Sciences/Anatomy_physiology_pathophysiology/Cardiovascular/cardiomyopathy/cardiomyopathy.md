@@ -92,10 +92,10 @@ DCM can be caused by a variety of factors, including viral infections, genetic m
 
 ***Treatment Options*** [^14]
 1.  ACE inhibitors
-    - [{{% badge color="grey" icon="question-circle" %}}9.__________{{% /badge %}}](#answers)
-    - [{{% badge color="grey" icon="question-circle" %}}10._________{{% /badge %}}](#answers)
-    - [{{% badge color="grey" icon="question-circle" %}}11._________{{% /badge %}}](#answers)
-    - [{{% badge color="grey" icon="question-circle" %}}12._________{{% /badge %}}](#answers)
+    - [{{% badge color="grey" icon="question-circle" %}}4.__________{{% /badge %}}](#answers)
+    - [{{% badge color="grey" icon="question-circle" %}}5._________{{% /badge %}}](#answers)
+    - [{{% badge color="grey" icon="question-circle" %}}6._________{{% /badge %}}](#answers)
+    - [{{% badge color="grey" icon="question-circle" %}}7._________{{% /badge %}}](#answers)
 2.  ARBs
     - If intolerant to ACE
 3.  Beta blockers
@@ -131,20 +131,20 @@ Symptoms of HCM can vary widely, and some people may not have any symptoms at al
 Treatment options may include medications, such as beta-blockers, and in severe cases, surgery to remove a portion of the thickened heart muscle or to create a bypass around the obstruction to improve blood flow.
 
 Risk factors for sudden cardiac death include:
-1. [{{% badge color="grey" icon="question-circle" %}}13._________{{% /badge %}}](#answers)
+1. [{{% badge color="grey" icon="question-circle" %}}8._________{{% /badge %}}](#answers)
 2.  Sponstaneous sustained VT
-3. [{{% badge color="grey" icon="question-circle" %}}14._________{{% /badge %}}](#answers)
+3. [{{% badge color="grey" icon="question-circle" %}}9._________{{% /badge %}}](#answers)
 4.  Non-sustained ventricular tachycardia
 5.  Syncope
-6. [{{% badge color="grey" icon="question-circle" %}}15._________{{% /badge %}}](#answers)
+6. [{{% badge color="grey" icon="question-circle" %}}10._________{{% /badge %}}](#answers)
 7.  Abnormal BP response to exercise
 
 #### HOCM Management
 
 - Maintain adequate preload and afterload
 - Maintain SVR
-- [{{% badge color="grey" icon="question-circle" %}}16._________{{% /badge %}}](#answers)
-- [{{% badge color="grey" icon="question-circle" %}}17._________{{% /badge %}}](#answers)
+- [{{% badge color="grey" icon="question-circle" %}}11._________{{% /badge %}}](#answers)
+- [{{% badge color="grey" icon="question-circle" %}}12._________{{% /badge %}}](#answers)
 - Avoid tachycardia and maintain SR
 - Treat hypotension with IV fluids and alpha-adrenergic agonists
 - General anestehsia is preferrable over neuraxial to avoid sympathectomy.
@@ -165,18 +165,18 @@ Treatment options for RCM may include medications such as diuretics and other me
 
 ### Answers
 
-- {{% badge color="grey" icon="question-circle" %}}1. Dilated{{% /badge %}}  
-- {{% badge color="grey" icon="question-circle" %}}2. Hypertrophic{{% /badge %}}  
-- {{% badge color="grey" icon="question-circle" %}}3. Restrictive{{% /badge %}}  
-- {{% badge color="grey" icon="question-circle" %}}9. Inhibit RAS{{% /badge %}}
-- {{% badge color="grey" icon="question-circle" %}}10. Slow disease progression{{% /badge %}}
-- {{% badge color="grey" icon="question-circle" %}}11. Reduce mortality{{% /badge %}}
-- {{% badge color="grey" icon="question-circle" %}}12. Improve exercise tolerance and dyspnea{{% /badge %}}
-- {{% badge color="grey" icon="question-circle" %}}13. Previous cardiac arrest{{% /badge %}}
-- {{% badge color="grey" icon="question-circle" %}}14. Family history of sudden death{{% /badge %}}
-- {{% badge color="grey" icon="question-circle" %}}15. LVH > 30mm{{% /badge %}}
-- {{% badge color="grey" icon="question-circle" %}}16. Avoid sympathetic activation{{% /badge %}}
-- {{% badge color="grey" icon="question-circle" %}}17. Reduce contractility{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" title="1. " %}}Dilated{{% /badge %}}  
+- {{% badge color="grey" icon="question-circle" title="2. " %}}Hypertrophic{{% /badge %}}  
+- {{% badge color="grey" icon="question-circle" title="3. " %}}Restrictive{{% /badge %}}  
+- {{% badge color="grey" icon="question-circle" title="4. " %}}Inhibit RAS{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" title="5. " %}}Slow disease progression{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" title="6. " %}}Reduce mortality{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" title="7. " %}}Improve exercise tolerance and dyspnea{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" title="8. " %}}Previous cardiac arrest{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" title="9. " %}}Family history of sudden death{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" title="10. " %}}LVH > 30mm{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" title="11. " %}}Avoid sympathetic activation{{% /badge %}}
+- {{% badge color="grey" icon="question-circle" title="12. " %}}Reduce contractility{{% /badge %}}
 
 
 

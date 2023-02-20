@@ -13,10 +13,10 @@ authors:
 bannerColor: "#fcf16f"
 ---
 
-#### MAC: **2**
-#### Blood-Gas: **0.65**
-#### % Metabolism: **2 - 5**
-#### Vapor Pressure: **160**
+***MAC:*** 2  
+***Blood-Gas:*** 0.65  
+***% Metabolism:*** 2 - 5  
+***Vapor Pressure:*** 160  
 
 {{% notice style="info" title="Relative MAC Values" %}}
  | MAC-BAR   |    ED95    |    MAC-Awake    |    MAC-Aware|
