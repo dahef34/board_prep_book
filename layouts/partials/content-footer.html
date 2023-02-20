@@ -1,6 +1,6 @@
 
 
-<div class="box" style="display:flex; align-items: stretch; row-gap: 10px; column-gap:10px;">
+<div class="box" style="display:flex; align-items: stretch; row-gap: 10px; column-gap:10px; flex-flow:row wrap;">
 {{- range .Params.authors }}
 
   {{- with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize .)) }}

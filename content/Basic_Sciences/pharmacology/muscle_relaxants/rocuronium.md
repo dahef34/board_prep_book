@@ -14,8 +14,8 @@ authors:
 bannerColor: "#f25050"
 ---
 
-Dose: **0.6 mg/kg**
-RSI Dose: **1.2 mg/kg**
+Dose: **0.6 mg/kg**  
+RSI Dose: **1.2 mg/kg**  
 Maintenance: **0.06 - 0.6 mg/kg**  
 Onset: **45 seconds - 3 minutes**  
 Peak: **1 - 3 minutes**  

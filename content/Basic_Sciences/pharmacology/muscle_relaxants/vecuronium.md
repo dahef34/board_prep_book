@@ -15,7 +15,7 @@ bannerColor: "#f25050"
 ---
 
 Dose: **0.1 mg/kg**  
-Maintenance: **0.01-0.05 mg/kg**  
+Maintenance: **0.01-0.05 mg/kg**   
 Onset: **2 - 3 minutes**  
 Peak: **2.5 minutes**   
 Duration: **25 - 50 minutes**  
