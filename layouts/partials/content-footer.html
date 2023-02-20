@@ -27,5 +27,7 @@
   {{ end }}
 </div>
 <div>
+  {{- if .Params.type "page" -}}
   {{- partial "custom-comments.html" . }}
+  {{- end }}
 </div>
