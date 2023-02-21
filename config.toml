@@ -2,7 +2,7 @@ baseURL = 'https://nceboardprep.com/'
 languageCode = 'en-us'
 title = 'Anesthetips NCE Board Prep'
 theme = "hugo-theme-relearn"
-disqusShortname = "anesthetips"
+
 
 [outputs]
 home = ["HTML", "RSS", "SEARCH", "PRINT"]
