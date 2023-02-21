@@ -9,6 +9,9 @@ show_breadcrumb: true
 
 Common muscle relaxants can be either depolarizing or non-depolarizing.
 
+{{< figure src="/images/content/nmb.webp" width="50%" caption="What AI thinks a neuromuscular junction looks like.">}}
+
+
 ## Depolarizers
 
 Succinylcholine is a depolarizing neuromuscular blocking agent that is rapidly metabolized and eliminated from the body.  It is two acetylcholine molecules linked by their acetyl groups.

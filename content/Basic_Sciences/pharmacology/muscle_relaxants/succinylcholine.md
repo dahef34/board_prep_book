@@ -1,39 +1,43 @@
 ---
-title: Cisatracurium
-date: 2023-02-20T13:22:42-05:00
-draft: false
+title: Succinylcholine
+date: '2023-02-02'
 type: page
-weight: 
+weight: 1530
 commentable: true
-tags:
-    - cisatracurium
-    - muscle relaxants
-authors:
-    - Lauren Suszan
+show_breadcrumb: true
+tags: 
+    - succinylcholine
+    - muscle relaxant
+authors: 
     - Justin Hefley
+    - Lauren Suszan
 bannerColor: "#f25050"
 ---
 
-Dose: **0.2 mg/kg**  
-Maintenance: **0.02-0.1 mg/kg**   
-Onset: **3 - 4 minutes**  
-Peak: **3 - 5 minutes**   
-Duration: **15 - 35 minutes**  
-Elimination: **Hoffman Elimination (pH/temp)**  
-Mechanism of Action: **Nicotinic M receptor antagonist (competitive inhibition)**  
+Dose: **0.7 - 1mg/kg**  
+RSI Dose: **1.5 mg/kg**  
+Onset: **30 seconds - 1 minutes**  
+Peak: **1  minute**  
+Duration: **4 - 10 minutes**  
+Elimination: **Excretion plasma pseudo/butyryl-cholinesterase**  
+Mechanism of Action: **Nicotinic M receptor agonist**  
 
-
-- Final concentration = 2 mg/ml
-- Benzylisoquinoline structure with quarternary group
-- Laudanosine metabolite but much less than atracurium due to potency
-- Caution in seizure patients
-- Acceptable for liver/renal patients
-- No histamine release
-
+- Concentration: 20 mg/ml
+- Potent malignant hyperthermia trigger that may be heralded by masseter muscle spasm
+- Bradycardia - may be life threatning in children
+- Fasiculations
+- Myalgias
+- Rhabdomyolysis
+- {{< math >}}$\uparrow${{< /math >}} IOP/ICP
+- In pediatric patients, only use when benefit to securing airway outweighs other risks
+- Should not be used in burns or trauma >> 24 hrs or any patient at risk for extrajunctional receptor proliferation
+- May be prolonged in liver disease and pregnancy 2{{< math >}}$^\circ${{< /math >}} to {{< math >}}$\downarrow${{< /math >}} in plasma cholinesterase
+- 2nd dose may result in bradydysrhythmias due to succinylmonocholine
+- Can cause phase II block if repeated doses or infusion used
+- Risk for allergic risk or anaphylaxis
 
 ##### Bibliography
-[^6], [^11],[^14]
-
+[^1], [^6],[^14], [^15]
 
 
 
@@ -50,3 +54,5 @@ Mechanism of Action: **Nicotinic M receptor antagonist (competitive inhibition)*
 [^11]: {{% badge color="maroon" title="11. " %}}Hines{{% /badge %}} - <span style="color:maroon">Hines RL, Jones SB, eds. Stoelting's Anesthesia and Co-existing Disease. 8th edition. Elsevier; 2021.</span>  
 [^12]: {{% badge color="aquamarine" title="12. " %}}Jaffe{{% /badge %}} - <span style="color:aquamarine">Jaffe RA, Schmiesing CA, Golianu B. Anesthesiologist's Manual of Surgical Procedures. 6th ed. Wolters Kluwer; 2020.</span>  
 [^13]: {{% badge color="darkgreen" title="13. " %}}Nagelhout{{% /badge %}} - <span style="color:darkgreen">Nagelhout JJ, Elisha S, Heiner JS, eds. Nurse Anesthesia. 7th edition. Elsevier; 2020.</span>
+[^14]: Omogui S, Sota Omoigui's Anesthesia Drug Handbook. S.O.T.A Technologies, Inc.; 1991.
+[^15]: Evers AS, Maze M, Kharasch ED, eds. Anesthetic Pharmacology ; [Basic Principles and Clinical Practice]. 2. ed. Cambridge Univ. Press; 2011.
