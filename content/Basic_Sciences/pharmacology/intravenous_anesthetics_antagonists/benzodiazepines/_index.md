@@ -3,8 +3,6 @@ title: 🗂 Benzodiazepines
 date: '2022-12-02'
 type: chapter
 weight: 1521
-commentable: true
-show_breadcrumb: true
 ---
 
 Benzodiazepines influence the gamma amino butyric acid (GABA)-A receptor as a positive allosteric modulator. The GABA-A receptor is a chloride-selective, ligand-gated ion channel. 

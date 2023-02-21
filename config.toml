@@ -9,6 +9,13 @@ home = ["HTML", "RSS", "SEARCH", "PRINT"]
 section = ["HTML", "RSS", "PRINT"]
 page = ["HTML", "RSS", "PRINT"]
 
+[params.utteranc]
+  enable = true
+  repo = "dahef34 / board_prep_book"
+  issueTerm = "pathname"
+  theme = "github-light"
+  label = "comment"
+
 [params]
 themeVariant = "nce"
   [features]
