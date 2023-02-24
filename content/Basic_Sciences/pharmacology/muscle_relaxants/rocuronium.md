@@ -1,5 +1,5 @@
 ---
-title: Rocuronium
+title: Rocuronium*
 date: '2023-02-02'
 type: page
 weight: 1530

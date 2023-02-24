@@ -1,5 +1,5 @@
 ---
-title: Dexmedetomidine
+title: Dexmedetomidine*
 date: '2023-02-02'
 type: page
 weight: 1521

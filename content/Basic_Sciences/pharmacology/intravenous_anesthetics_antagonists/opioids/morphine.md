@@ -1,5 +1,5 @@
 ---
-title: Morphine
+title: Morphine*
 date: '2023-02-02'
 type: page
 weight: 1525

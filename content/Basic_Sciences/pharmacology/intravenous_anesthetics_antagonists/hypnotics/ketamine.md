@@ -1,5 +1,5 @@
 ---
-title: Ketamine
+title: Ketamine*
 date: '2023-02-02'
 type: page
 weight: 1529

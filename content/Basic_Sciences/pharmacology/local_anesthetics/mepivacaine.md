@@ -1,44 +1,37 @@
 ---
-title: Sevoflurane*
-date: '2022-12-02'
+title: Mepivacaine
+date: 2023-02-20T13:22:42-05:00
+draft: false
 type: page
-weight: 1500
+weight: 
 commentable: true
-show_breadcrumb: true
 tags:
-- sevoflurane
+    - mepivacaine
+    - local anesthetics
 authors:
-    - Justin Hefley
     - Lauren Suszan
-bannerColor: "#fcf16f"
+    - Justin Hefley
+bannerColor: "#676767"
 ---
 
-***MAC:*** 2  
-***Blood-Gas:*** 0.65  
-***% Metabolism:*** 2 - 5  
-***Vapor Pressure:*** 160  
+Max Dose: **4.5 mg/kg** (400mg)  
+Max Dose with epi: **7 mg/kg** (500mg)  
+Elimination: **Hepatic**  
+Mechanism of Action: **Sodium channel inhibition** 
 
-{{% notice style="info" title="Relative MAC Values" %}}
- | MAC-BAR   |    ED95    |    MAC-Awake    |    MAC-Aware|
- | :-------:| :----------: | :-----------: | :--------------: |
- | 1.5 | 1.3 | 0.4 | 0.5 |
-{{% /notice %}}
+|pKa | Duration| Potency|
+|:--: |:--: |:--: |
+| Onset | Protein Binding | Lipid solubility|
 
-- {{% notice style="red" %}}MH Trigger{{% /notice %}}
-- Potent inhalational Anesthetic
-- ↑ RR
-- ↓ TV & MV
-- ↑ bronchodilation
-- Dose-dependent depression of the ventilatory response to hypercarbia & hypoxia
-- ↓ ciliary movement and altered mucous characteristics
-- Dose-dependent effect on skeletal muscle relaxation (most prominent > 1 MAC)
-- Potentiates the action of neuromuscular blockers (enhanced by 40% in patients with myasthenia gravis)
-- In the presence of a dessicated CO2 absorber, exothermic reaction with volatile anesthetics can lead to fire and/or carbon monoxide formation (less so than Isoflurand and Desflurane)
-- Desflurane > Isoflurane >> Sevoflurane
-- Breaks down in the CO₂ absorber to compound A.  To mitigate this risk flows can be 1-2 lpm for up to 2 MAC hours then > 2 lpm
-- Most highly metabolized modern inhalational anesthetic.  
-- Metabolized into flouride ions which can be nephrotoxic (not shown to be clinically significant)
-- All MAC doses can be decreased by co-administered agents (benzodiazepines, opioids, Alpha2 agonists, etc.)
+- pKa = 7.6
+- {{< math >}}NaHCO$_3${{< /math >}} added to speed onset
+
+
+
+##### Bibliography
+[^6], [^11], [^14], [^15]
+
+
 
 
 [^1]: {{% badge color="blue" title="1. " %}}Barash{{% /badge %}}<span style="color:blue"> - Barash PG, Cullen BF, Stoelting RK, Cahalan MK, Stock MC, Ortega R, Sharar SR, Holt NF, eds. Clinical Anesthesia. 8th edition. Wolters Kluwer; 2017.</span>  
@@ -54,3 +47,8 @@ bannerColor: "#fcf16f"
 [^11]: {{% badge color="maroon" title="11. " %}}Hines{{% /badge %}} - <span style="color:maroon">Hines RL, Jones SB, eds. Stoelting's Anesthesia and Co-existing Disease. 8th edition. Elsevier; 2021.</span>  
 [^12]: {{% badge color="aquamarine" title="12. " %}}Jaffe{{% /badge %}} - <span style="color:aquamarine">Jaffe RA, Schmiesing CA, Golianu B. Anesthesiologist's Manual of Surgical Procedures. 6th ed. Wolters Kluwer; 2020.</span>  
 [^13]: {{% badge color="darkgreen" title="13. " %}}Nagelhout{{% /badge %}} - <span style="color:darkgreen">Nagelhout JJ, Elisha S, Heiner JS, eds. Nurse Anesthesia. 7th edition. Elsevier; 2020.</span>
+[^14]: Omogui S, Sota Omoigui's Anesthesia Drug Handbook. S.O.T.A Technologies, Inc.; 1991.
+[^15]: Evers AS, Maze M, Kharasch ED, eds. Anesthetic Pharmacology ; [Basic Principles and Clinical Practice]. 2. ed. Cambridge Univ. Press; 2011.
+[^16]: Brinck E, Tiippana E, Heesen M, et al. Perioperative intravenous ketamine for acute postoperative pain in adults. CDSR. Published online December 20, 2018. doi:10.1002/14651858.CD012033.pub4
+[^17]: https://labeling.pfizer.com/ShowLabeling.aspx?id=4497
+

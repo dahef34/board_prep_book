@@ -1,5 +1,5 @@
 ---
-title: Etomidate
+title: Etomidate*
 date: '2023-02-02'
 type: page
 weight: 1522

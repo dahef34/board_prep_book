@@ -6,6 +6,7 @@ weight: 1601
 commentable: true
 show_breadcrumb: true
 ---
+{{% children depth="1" showhidden="true" %}}
 
 Common muscle relaxants can be either depolarizing or non-depolarizing.
 
@@ -24,6 +25,5 @@ Aminosteroid neuromuscular blockers include drugs such as vecuronium, rocuronium
 These drugs have a longer duration of action than depolarizing neuromuscular blocking agents such as succinylcholine, which are rapidly metabolized and eliminated from the body. Aminosteroid neuromuscular blockers are often preferred over depolarizing agents in certain situations, such as when longer periods of muscle relaxation are needed or when depolarizing agents are contraindicated (e.g., in patients with a history of malignant hyperthermia or neuromuscular disorders).
 
 #### Benzylisoquinolones
-Cisatracurium is an isomer of atracurium, another benzylisoquinolone neuromuscular blocking agent. Cisatracurium has the advantage of being less histamine-releasing than atracurium, which can be beneficial in certain patient populations such as those with asthma or allergies. Cisatracurium is also metabolized by Hofmann elimination, which results in a more predictable and consistent duration of action compared to atracurium, which is metabolized by both Hofmann elimination and ester hydrolysis.  Mivacurium is hydrolyzed by pseudocholinesterase.
+Cisatracurium is an isomer of atracurium, another benzylisoquinolone neuromuscular blocking agent. Cisatracurium has the advantage of being less histamine-releasing than atracurium, which can be beneficial in certain patient populations such as those with asthma or allergies. Cisatracurium is metabolized by Hofmann elimination, which results in a more predictable and consistent duration of action compared to atracurium, which is metabolized by both Hofmann elimination and ester hydrolysis.  Mivacurium is hydrolyzed by pseudocholinesterase.
 
-{{% children depth="1" showhidden="true" %}}

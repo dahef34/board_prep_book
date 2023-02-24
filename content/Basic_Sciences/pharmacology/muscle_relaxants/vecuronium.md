@@ -1,5 +1,5 @@
 ---
-title: Vecuronium
+title: Vecuronium*
 date: '2023-02-02'
 type: page
 weight: 1530

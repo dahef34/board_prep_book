@@ -1,5 +1,5 @@
 ---
-title: Desflurane
+title: Desflurane*
 date: '2022-12-02'
 type: page
 weight: 1521

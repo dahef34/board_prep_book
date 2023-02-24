@@ -1,5 +1,5 @@
 ---
-title: Cisatracurium
+title: Cisatracurium*
 date: 2023-02-20T13:22:42-05:00
 draft: false
 type: page

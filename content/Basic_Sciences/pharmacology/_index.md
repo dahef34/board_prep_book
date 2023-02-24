@@ -7,9 +7,9 @@ commentable: true
 show_breadcrumb: true
 ---
 
-
-
 {{% children depth="1" showhidden="true" %}}
+
+Medications marked with an * after the name are considered essential knowledge before beginning your rotations in the operating room.  They should be memorized and easily recallable.
 
 ### Pharmacodynamics
 Pharmacodynamics is the study of pharmacologic actions in living systems or how a drug affects the body.  What does it do and how does it do it?  Some key meticrs are duration, onset, peak, therapeutic index and dose-response relationship.  The dose-response relationship is the most important pharcodynamic principle.
