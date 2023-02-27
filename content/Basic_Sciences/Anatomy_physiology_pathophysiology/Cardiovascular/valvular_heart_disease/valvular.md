@@ -33,9 +33,9 @@ These leafelets are attached to the papillary muscles in the ventricles by chord
 ![Heart cross section](/images/content/Heart_diagram-en.svg "Cross-section of heart (labeled)")[^14]
 
 
-{{% notice style="primary" %}}
- The aortic valve has 2 anterior leaflets and 1 posterior leaflet.  
- The pulmonic valve has 2 posterior leaflets and 1 anterior leaflet.  
+{{% notice style="info" title="Semilunar valves" %}}
+ The ***A***ortic valve has 2 ***A***nterior leaflets and 1 posterior leaflet.  
+ The ***P***ulmonic valve has 2 ***P***osterior leaflets and 1 anterior leaflet.  
 {{% /notice %}}
 
 ## Aortic stenosis
@@ -43,7 +43,7 @@ These leafelets are attached to the papillary muscles in the ventricles by chord
 
 AS is the most common cardiac valve lesion in the United States and as the population is living longer this surgery has become more prevalent.  Up to 2% of the population can have a congenital bicuspid aortic valve which significantly increases the odds of developing stenosis and eventually needing repair.  The normal valve area is 2.5 - 3.5 cm² and significant stenosis occurs < 1.2 cm².  Critical stenosis is < 0.7 cm².  Survival without surgery is estimated at 2-5 years after symptom onset.  The left ventricle gets stronger and thickens due to the increasing workload of pumping blood through the stenotic valve.  Eventually this ***concentric*** thickening will lead to decreased myocardial contractility and left ventricular function will become comprimised.
 
-{{% notice style="info" %}}
+{{% notice style="info" title="Pressure → Concentric" %}}
  Aortic stenosis causes a ***PRESSURE*** overload which leads to ***CONCENTRIC*** hypertrophy. 
 {{% /notice %}}
 
@@ -75,7 +75,7 @@ It is divided into 4 stages:
     - Stage C2 patients have a left ventricular ejection fraction of less than 50% and severe left ventricular dilation with an end-systolic dimension more than 50 mm or an indexed left ventricular end-systolic dimension more than 25 mm/m2.
 - Stage D: Patients with symptomatic and severe AR.
 
-{{% notice style="info" %}}
+{{% notice style="info" title="Volume → Eccentric" %}}
  Aortic regurgitation causes a ***VOLUME*** overload which leads to ***ECCENTRIC*** hypertrophy. 
 {{% /notice %}}
 

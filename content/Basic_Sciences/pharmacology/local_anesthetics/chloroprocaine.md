@@ -14,10 +14,10 @@ authors:
 bannerColor: "#676767"
 ---
 
-Max Dose: 
-Max Dose with epi: 
-Elimination: **Hepatic**  
-Mechanism of Action: * 
+Max Dose:  
+Max Dose with epi:   
+Elimination: **Hepatic**    
+Mechanism of Action: *  
 
 |pKa | Duration| Potency|
 |:--: |:--: |:--: |

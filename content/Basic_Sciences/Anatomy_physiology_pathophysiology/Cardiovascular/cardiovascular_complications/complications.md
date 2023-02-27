@@ -69,7 +69,9 @@ Clinical findings in patients with a PE include in descending order: dyspnea, ta
 
 {{% expand title = "Bohr equation: ____________________________" %}}
 ```math
-$$V_{d\ phys} = V_T[(PaCO_2 - PeCO_2)/PaCO_2]$$
+$$
+V_{d\ phys} = V_T\left(\frac{PaCO_2 - PeCO_2}{PaCO_2}\right)
+$$
 ```
 {{< /expand >}}
 

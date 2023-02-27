@@ -7,6 +7,7 @@ commentable: true
 show_breadcrumb: true
 tags:
 - sevoflurane
+- volatile anesthetics
 authors:
     - Justin Hefley
     - Lauren Suszan

@@ -18,7 +18,7 @@ There are many different congenital heart defects that can present in a child.  
 
 
 
-|Right --> Left       | Left --> Right |  Mixing Lesions                |  Obstructive Lesions     |
+|Right → Left       | Left → Right |  Mixing Lesions                |  Obstructive Lesions     |
 | ------------------- | ---------------| ------------------------------ | ------------------------ |
 | Tetralogy of Fallot | VSD            | [{{% badge color="grey" icon="question-circle" title="" %}}3.__________{{% /badge %}}](#answers)             | [{{% badge color="grey" icon="question-circle" title="" %}}4.__________{{% /badge %}}](#answers) |
 | [{{% badge color="grey" icon="question-circle" title="" %}}1.__________{{% /badge %}}](#answers)  | ASD            | Anomalous venous return        | Aortic/mitral stenosis   | 
@@ -49,14 +49,14 @@ READING: Cote [^3] p. 467
 
 
 Tetralogy of Fallot is the most common cyanotic heart disease.  It is characterized by four main defects that work in conjunction: 
-1. `Right` ventricular outflow tract obstruction
+1. {{% badge color="green" %}}Right {{% /badge %}} ventricular outflow tract obstruction
 2. [{{% badge color="grey" icon="question-circle" title="" %}}5.__________{{% /badge %}}](#answers)
-3. `Right` ventricular hypertrophy
+3. {{% badge color="green" %}}Right {{% /badge %}} ventricular hypertrophy
 4. Overriding aorta
 
 Surgical repair ranges from a multi-staged approach with final repair in later childhood to a single surgery in infancy.  Either way, primary preanesthetic goals should include:
-- Optimizing `right` ventricular filling
-- Supporting `right` ventricular function
+- Optimizing {{% badge color="green" %}}right {{% /badge %}} ventricular filling
+- Supporting {{% badge color="green" %}}right {{% /badge %}} ventricular function
 - [{{% badge color="grey" icon="question-circle" title="" %}}6.__________{{% /badge %}}](#answers)
 - Decreasing peak inspiratory pressures
 
