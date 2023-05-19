@@ -11,7 +11,37 @@ weight: 199
 
 Before you get started on this section, take some notes and get everything you know down on paper.
 
-#### Anatomy
+### Anatomy
+
+
+### Lung volumes and capacities
+
+![Lung volumes and capacities](/images/content/Lungvolumes.svg "Lung volumes and capacities The original uploader was Vihsadas at English Wikipedia. derivative work: rscottweekly, CC BY-SA 3.0")
+
+#### Tidal Volume
+
+The volume that moves in and out of the lungs during normal unlabored breathing.  Usually 6 to 8 mL/kg.[^1]
+
+{{%  notice style="info" title="Tidal Volume" %}}
+6 - 8 mL/kg
+{{% /notice %}}
+
+#### Vital Capacity
+
+Vital capacity is the total capacity of the lungs minus the residual volume and represents the patients capacity for an effective cough.[^1]
+
+{{%  notice style="info" title="Vital Capacity" %}}
+~60 mL/kg
+{{% /notice %}}
+
+#### Inspiratory Capacity
+
+The largest volume of gas that can be inspired from the resting expiratory phase.  Useful for detecting extrathoracic obstruction.[^1]
+
+#### Functional residual capacity
+
+The combination of expiratory reserve volume and residual volume, this volume represents the amount of gas in the lungs after passive exhalation.[^1]
+
 
 
 #### West Zones

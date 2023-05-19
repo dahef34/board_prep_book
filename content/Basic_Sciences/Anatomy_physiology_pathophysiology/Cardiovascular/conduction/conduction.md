@@ -114,6 +114,8 @@ Indications for ICD include[^1]
 - {{% badge color="grey" icon="question-circle" title="5. " %}}HCM with sinus node dysfunction{{% /badge %}}
 
 
+
+
 ### References
 
 [^1]: {{% badge color="blue" title="1. " %}}Barash{{% /badge %}}<span style="color:blue"> - Barash PG, Cullen BF, Stoelting RK, Cahalan MK, Stock MC, Ortega R, Sharar SR, Holt NF, eds. Clinical Anesthesia. 8th edition. Wolters Kluwer; 2017.</span>  

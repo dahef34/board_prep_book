@@ -1,0 +1,9 @@
+<!-- Hugo shortcode for an image gallery that takes a list of images as the inner content->
+<!-- Compare this snippet from themes/hugo-theme-relearn/layouts/partials/shortcodes/gallery.html: -->
+
+{{- $src := .Get "src" -}}
+{{- with .Parent -}}
+  <img src="{{$src}}" class="{{ .Get "class" }}-image">
+{{- else -}}
+  <img src="{{$src}}">
+{{- end -}}
